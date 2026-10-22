@@ -1,0 +1,936 @@
+Title,URL handle,Description,Vendor,Product category,Type,Tags,Published on online store,Status,SKU,Variant Barcodes,Option1 name,Option1 value,Option1 Linked To,Option2 name,Option2 value,Option2 Linked To,Option3 name,Option3 value,Option3 Linked To,Price,Compare-at price,Cost per item,Charge tax,Tax code,Unit price total measure,Unit price total measure unit,Unit price base measure,Unit price base measure unit,Inventory tracker,Inventory quantity,Continue selling when out of stock,Weight value (grams),Weight unit for display,Requires shipping,Fulfillment service,Product image URL,Image position,Image alt text,Variant image URL,Gift card,SEO title,SEO description,Color (product.metafields.shopify.color-pattern),Google Shopping / Google product category,Google Shopping / Gender,Google Shopping / Age group,Google Shopping / Manufacturer part number (MPN),Google Shopping / Ad group name,Google Shopping / Ads labels,Google Shopping / Condition,Google Shopping / Custom product,Google Shopping / Custom label 0,Google Shopping / Custom label 1,Google Shopping / Custom label 2,Google Shopping / Custom label 3,Google Shopping / Custom label 4,Packed product length,Packed product width,Packed product height,Packed product dimension unit
+🎃 Creepy-Cute Halloween Centipede Pet Costume – 3D Crawling Outfit for Dogs & Cats 🐾,creepy-cute-halloween-centipede-pet-costume,"<style>   .centipede-costume-page {     --cc-primary: #dc2626;     /* 万圣惊悚红 */     --cc-accent: #d97706;      /* 幽灵金/触角黄 */     --cc-dark: #0f172a;        /* 极夜曜石深蓝黑 */     --cc-red: #ba372a;         /* 高光警示红 */     --cc-soft: #fef2f2;        /* 洁净温润浅红底 */     --cc-border: #fecaca;      /* 质感微光暖红边框 */     --cc-text: #1f2937;     --cc-muted: #4b5563;     --cc-white: #ffffff;      max-width: 760px;     margin: 0 auto;     padding: 10px;     box-sizing: border-box;     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;     color: var(--cc-text);     line-height: 1.65;     background: var(--cc-white);   }    .centipede-costume-page * {     box-sizing: border-box;   }    .centipede-costume-page h1,   .centipede-costume-page h2,   .centipede-costume-page h3,   .centipede-costume-page p {     margin-top: 0;   }    .centipede-costume-page h1 {     margin-bottom: 8px;     font-family: Georgia, 'Times New Roman', serif;     font-size: 24px;     line-height: 1.25;     font-weight: 900;     color: var(--cc-dark);   }    .centipede-costume-page h2 {     margin-bottom: 12px;     font-family: Georgia, 'Times New Roman', serif;     font-size: 19.5px;     line-height: 1.35;     font-weight: 800;     color: var(--cc-dark);   }    .centipede-costume-page h3 {     margin-bottom: 4px;     font-size: 15px;     line-height: 1.4;     font-weight: 800;     color: var(--cc-primary);   }    .centipede-costume-page p {     margin-bottom: 0;     font-size: 13.5px;     line-height: 1.55;     color: var(--cc-muted);   }    .centipede-costume-page img {     display: block;     width: 100%;     height: auto;     border-radius: 14px;     box-shadow: 0 4px 14px rgba(220, 38, 38, 0.12);   }    /* 针对动图进行硬件加速、清晰度抗发虚处理 */   .centipede-costume-page imgsrc*='.gif' {     image-rendering: -webkit-optimize-contrast;     image-rendering: crisp-edges;     transform: translateZ(0);     backface-visibility: hidden;     max-width: 480px;     margin: 0 auto;   }    /* 顶部 Authentic 信任告示栏 */   .cc-usa-trust-bar {     padding: 10px 12px;     background: #fff5f5;     border: 1px solid #feb2b2;     border-radius: 10px;     margin-bottom: 14px;     font-size: 12px;     color: #9b2c2c;     text-align: center;   }    .cc-usa-trust-bar strong {     color: var(--cc-red);   }    /* 支付微标栏 */   .cc-pay-badges {     display: flex;     justify-content: center;     gap: 8px;     flex-wrap: wrap;     margin: 12px 0 16px;   }    .cc-pay-tag {     background: #ffffff;     border: 1px solid #e2e8f0;     border-radius: 6px;     padding: 4px 8px;     font-size: 11px;     font-weight: 800;     color: #334155;   }    /* 结构布局模块 */   .cc-section {     margin-bottom: 26px;   }    .cc-section--soft {     padding: 16px;     background: var(--cc-soft);     border: 1px solid var(--cc-border);     border-radius: 16px;   }    .cc-hero {     padding: 16px 8px;     text-align: center;     background: var(--cc-soft);     border: 1px solid var(--cc-border);     border-radius: 16px;   }    .cc-eyebrow {     display: inline-block;     margin-bottom: 6px;     color: var(--cc-primary);     font-size: 11px;     font-weight: 800;     letter-spacing: 1.5px;     text-transform: uppercase;   }    /* 核心优势 2列网格卡片 */   .cc-benefits-grid {     display: grid;     grid-template-columns: repeat(2, 1fr);     gap: 8px;     margin-top: 14px;   }    .cc-benefit-card {     padding: 12px 10px;     background: var(--cc-white);     border: 1px solid var(--cc-border);     border-radius: 10px;     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.01);   }    .cc-benefit-card strong {     display: block;     font-size: 13.5px;     color: var(--cc-dark);     margin-bottom: 2px;   }    .cc-benefit-card p {     font-size: 12px;     line-height: 1.4;   }    /* 双色系卡片网格 */   .cc-color-grid {     display: grid;     grid-template-columns: repeat(2, 1fr);     gap: 10px;     margin-top: 14px;   }    .cc-color-card {     padding: 14px;     background: #ffffff;     border: 1px solid var(--cc-border);     border-radius: 12px;     text-align: center;   }    .cc-color-card strong {     display: block;     font-size: 14.5px;     margin-bottom: 4px;   }    .cc-color-card p {     font-size: 11.5px;     color: var(--cc-muted);     line-height: 1.4;   }    /* 场景平铺网格 */   .cc-zone-grid {     display: grid;     grid-template-columns: repeat(2, 1fr);     gap: 8px;     margin-top: 14px;     text-align: center;   }    .cc-zone-item {     padding: 10px 4px;     background: rgba(255, 255, 255, 0.15) !important;     border: 1px solid rgba(255, 255, 255, 0.25) !important;     border-radius: 8px;     font-size: 12.5px;     font-weight: 700;     color: #ffffff !important;   }    /* 纵向 4 步穿戴指南 */   .cc-steps-list {     display: grid;     gap: 10px;     margin-top: 14px;   }    .cc-step-row {     display: flex;     align-items: flex-start;     padding: 12px 14px;     background: #ffffff;     border: 1px solid var(--cc-border);     border-radius: 12px;   }    .cc-step-circle {     display: flex;     align-items: center;     justify-content: center;     flex-shrink: 0;     width: 24px;     height: 24px;     margin-right: 12px;     background: var(--cc-primary);     color: #ffffff !important;     font-size: 12px;     font-weight: 800;     border-radius: 50%;     margin-top: 2px;   }    .cc-step-content {     flex: 1;     font-size: 13px;     line-height: 1.5;   }    .cc-step-content strong {     color: var(--cc-dark);   }    /* ⚙️ 左右工整对齐的技术参数面板 */   .cc-table-box {     width: 100%;     margin-top: 14px;     border: 1px solid var(--cc-border);     border-radius: 12px;     overflow: hidden;     background: #ffffff;     border-collapse: separate;     border-spacing: 0;   }    .cc-spec-row {     display: flex;     justify-content: space-between;     align-items: center;     padding: 12px 16px;     font-size: 13px;     border-bottom: 1px solid #f1f5f9;     background: #ffffff;     gap: 12px;     width: 100%;   }    .cc-spec-row:last-child {     border-bottom: none;   }    .cc-spec-row:nth-child(even) {     background: #fafafa;   }    .cc-spec-label {     font-weight: 800;     color: var(--cc-dark);     white-space: nowrap;     text-align: left;   }    .cc-spec-value {     text-align: right;     color: var(--cc-muted);     font-weight: 500;   }    .cc-notice-box {     background: #fff7ed;     border: 1px solid #ffedd5;     border-radius: 12px;     padding: 14px;     font-size: 12.5px;     color: #9a3412;     margin-top: 14px;   }    .cc-notice-box ul {     margin: 6px 0 0 0;     padding-left: 18px;   }    .cc-notice-box li {     margin-bottom: 4px;   }    /* FAQ 常见疑问手风琴 */   .cc-faq-box {     margin-top: 14px;     display: grid;     gap: 8px;   }    .cc-faq-box details {     border: 1px solid var(--cc-border);     border-radius: 10px;     padding: 10px 14px;     background: #ffffff;   }    .cc-faq-box summary {     font-weight: 800;     font-size: 13px;     color: var(--cc-primary);     cursor: pointer;     list-style: none;   }    .cc-faq-box summary::-webkit-details-marker {     display: none;   }    .cc-faq-box p {     margin-top: 6px;     font-size: 12px;     color: var(--cc-muted);     line-height: 1.45;   }    /* 3列紧凑信托卡片（内联强化并排） */   .cc-compact-trust {     display: flex;     justify-content: space-between;     gap: 8px;     background: #ffffff;     border: 1px solid var(--cc-border);     border-radius: 12px;     padding: 12px 8px;     text-align: center;   }    .cc-trust-item-compact {     flex: 1;   }    .cc-trust-item-compact strong {     display: block;     font-size: 12px;     color: var(--cc-dark);     margin-bottom: 2px;   }    .cc-trust-item-compact p {     font-size: 11px;     color: var(--cc-muted);     line-height: 1.3;     margin: 0;   }    /* 强转化促单收尾大暗框 */   .cc-cta-banner {     padding: 22px 16px;     background: linear-gradient(135deg, var(--cc-dark), #991b1b) !important;     border-radius: 12px;     text-align: center;     box-shadow: 0 4px 14px rgba(220, 38, 38, 0.25);   }    .cc-cta-banner h2 {     color: #ffffff !important;     font-size: 16.5px;     margin-bottom: 4px;     font-weight: 800;     letter-spacing: 0.5px;   }    .cc-cta-banner p {     color: #fecaca !important;     font-size: 13px;     margin-bottom: 14px;   }    .cc-cta-trust-line {     margin-top: 12px;     padding-top: 12px;     border-top: 1px solid rgba(255, 255, 255, 0.15);     display: flex;     justify-content: center;     gap: 14px;     flex-wrap: wrap;   }    .cc-trust-badge {     display: inline-flex;     align-items: center;     gap: 4px;     font-size: 11.5px !important;     font-weight: 800 !important;     color: #ffffff !important;     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);   }    /* 底部4列高质感信托徽章 */   .cc-trust-grid {     display: grid;     grid-template-columns: repeat(4, 1fr);     gap: 6px;     margin-top: 14px;     text-align: center;   }    .cc-trust-item {     padding: 8px 4px;     background: var(--cc-soft);     border: 1px solid var(--cc-border);     border-radius: 8px;     font-size: 11px;     font-weight: 700;     color: var(--cc-muted);   }    @media (min-width: 600px) {     .cc-benefits-grid { grid-template-columns: repeat(2, 1fr); }   } </style><div class=""centipede-costume-page"">
+<div class=""cc-usa-trust-bar"">
+<br>🏆 #1 Viral Halloween Pet Costume  |  🏆 30-Day Money-Back Guarantee  |  🔥 99.3% Recommends</div>
+<div class=""cc-pay-badges"">
+<span class=""cc-pay-tag"">🔒 SSL Secured</span> <span class=""cc-pay-tag"">💳 VISA / MC</span> <span class=""cc-pay-tag"">🅿️ PayPal</span> <span class=""cc-pay-tag""> Apple Pay</span> <span class=""cc-pay-tag"">⚡ Tracked Delivery</span>
+</div>
+<section class=""cc-section""><div class=""cc-hero"">
+<span class=""cc-eyebrow"">🎃 3D PADDED CENTIPEDE • 4-POINT SECURE HOLD • ANTI-HAIR OXFORD LINING 🐾</span><h1>Creepy-Cute Halloween Costume for Pets</h1>
+<div style=""width: 100%; margin: 14px auto; text-align: center;""><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/9bc9a3d1cb67ecb16037033cefbead34.gif?v=1788581548"" alt=""Pet wearing funny creepy crawling centipede costume animation"" loading=""eager""></div>
+<p style=""font-size: 14.5px; color: var(--cc-text); font-weight: 500; padding: 0 4px; margin-top: 10px;"">Turn your furry best friend into the most hilarious, spooky little crawler on the block! Featuring an oversized padded segmented body, wiggling 3D antennae, multi-legs, and a comfortable 4-point secure fastening system built for dogs and cats.</p>
+</div></section><section class=""cc-section""><div style=""text-align: center; margin-bottom: 14px;"">
+<h2>🐾 Built for the Look: Head-Turning Halloween Comedy 🐛</h2>
+<p><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/2_56a04d6e-d283-4173-bfaa-36f24a705413.png?v=1788582106"" alt=""Golden accented centipede pet costume overview"" loading=""lazy""></p>
+</div>
+<div style=""margin-bottom: 14px;""><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/7_0ea153af-52e6-4f18-910f-3ba207257df4.png?v=1788582105"" alt=""Cat wearing creepy-cute black and red centipede halloween costume"" loading=""lazy""></div>
+<div class=""cc-benefits-grid"">
+<div class=""cc-benefit-card"">
+<strong>🐛 Voluminous 3D Padded Shape</strong><p>Generously cushioned segments hold their lifted, dramatic creature shape as your pet walks.</p>
+</div>
+<div class=""cc-benefit-card"">
+<strong>🔒 4-Point Secure Fit</strong><p>Anchors evenly across head, neck, chest, and waist to stop sliding, twisting, or stepping out.</p>
+</div>
+<div class=""cc-benefit-card"">
+<strong>🛡️ Anti-Stick Oxford Lining</strong><p>Smooth inner lining prevents loose fur from clinging inside, making post-party cleanup a breeze.</p>
+</div>
+<div class=""cc-benefit-card"">
+<strong>⚡ Quick Hook-and-Loop</strong><p>Adjustable strap tabs make dressing up and undressing fast, gentle, and stress-free for pets.</p>
+</div>
+</div></section><section class=""cc-section cc-section--soft""><div style=""text-align: center; margin-bottom: 14px;""><h2>🎭 Choose Your Vibe: Spooky Red or Radiant Gold</h2></div>
+<div style=""margin-bottom: 10px;""><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/1_671697ad-d0aa-415a-8515-c5ebe4beab96.png?v=1788582105"" alt=""Inner Oxford cloth lining and adjustable hook and loop belly straps"" loading=""lazy""></div>
+<div style=""margin-bottom: 14px;""><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/5_94e4135b-5501-4f54-91c1-2cf6369770d8.png?v=1788582105"" alt=""Red accented centipede pet costume laid flat"" loading=""lazy""></div>
+<div class=""cc-color-grid"">
+<div class=""cc-color-card"">
+<strong style=""color: var(--cc-primary);"">🔴 Fiery Red Edition</strong><p>Classic Halloween horror contrast with vivid crimson legs and antennae that pop against dark fur.</p>
+</div>
+<div class=""cc-color-card"">
+<strong style=""color: var(--cc-accent);"">🟡 Radiant Gold Edition</strong><p>High-visibility harvest golden tones that stand out brightly during nighttime trick-or-treating.</p>
+</div>
+</div></section><section class=""cc-section""><div style=""text-align: center; margin-bottom: 14px;""><h2>🔒 4-Zone Balanced Hold with Smooth Oxford Comfort</h2></div>
+<div style=""margin-bottom: 14px;""><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/4_7415d4eb-e227-47f1-84f0-da2fb43467f2.png?v=1788582105"" alt=""Close-up of flexible creature legs and headpiece fastening"" loading=""lazy""></div>
+<p style=""text-align: center; padding: 0 4px; color: var(--cc-muted);"">Unlike loose capes that drag or flip over, the four independent securing straps distribute weight evenly along your pet's spine. The skin-friendly lining glides over natural fur without pulling or matting.</p></section><section class=""cc-section cc-section--soft""><div style=""text-align: center; margin-bottom: 14px;""><h2>📸 Camera-Ready Fun: Perfect for Viral Halloween Clips</h2></div>
+<div style=""margin-bottom: 10px;""><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/6_3d43bc77-ebb5-442c-837a-782235300b3d.png?v=1788582105"" alt=""Pet comfortably exploring indoors wearing full centipede costume"" loading=""lazy""></div>
+<div style=""margin-bottom: 14px;""><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/3_ec68b249-9f42-46b9-83ab-176b5565f2a1.png?v=1788582104"" alt=""Front angle showing playful 3D creature antennae and smiling pet face"" loading=""lazy""></div>
+<p style=""text-align: center; padding: 0 4px;"">Watch the soft padded legs bounce and sway naturally with every step! It guarantees instant laughs at neighborhood block parties and creates unforgettable viral TikTok &amp; Instagram photo ops.</p></section><section class=""cc-section""><div style=""text-align: center; margin-bottom: 10px;""><h2>📏 Precise Size Guide &amp; Measurement Breakdown</h2></div>
+<div style=""margin-bottom: 14px;""><img src=""https://cdn.shopify.com/s/files/1/0745/3314/2682/files/8_9c6ab749-4315-4ce8-9998-5de94832bbea.png?v=1788582103"" alt=""Size chart and body dimensions for centipede pet costume"" loading=""lazy""></div>
+<div class=""cc-table-box"">
+<div class=""cc-spec-row"">
+<span class=""cc-spec-label"">Head Circumference</span> <span class=""cc-spec-value"" style=""font-weight: 800; color: var(--cc-dark);"">23–29 cm (9.0–11.4 in)</span>
+</div>
+<div class=""cc-spec-row"">
+<span class=""cc-spec-label"">Neck Circumference</span> <span class=""cc-spec-value"">16–22 cm (6.3–8.7 in)</span>
+</div>
+<div class=""cc-spec-row"">
+<span class=""cc-spec-label"">Chest Girth</span> <span class=""cc-spec-value"">28–39 cm (11.0–15.4 in)</span>
+</div>
+<div class=""cc-spec-row"">
+<span class=""cc-spec-label"">Waist Girth</span> <span class=""cc-spec-value"">32–44 cm (12.6–17.3 in)</span>
+</div>
+<div class=""cc-spec-row"">
+<span class=""cc-spec-label"">Overall Length</span> <span class=""cc-spec-value"">Approx. 127 × 29 cm (50 × 11.4 in)</span>
+</div>
+<div class=""cc-spec-row"" style=""background: #fff7ed;"">
+<span class=""cc-spec-label"" style=""color: var(--cc-primary);"">Package Inventory</span> <span class=""cc-spec-value"" style=""font-weight: bold; color: var(--cc-dark);"">1 × Pet Centipede Costume (Selected Color)</span>
+</div>
+</div></section><section class=""cc-section cc-section--soft""><div style=""text-align: center; margin-bottom: 14px;""><h2>🚀 4 Easy Steps to Dress Up in Under 60 Seconds</h2></div>
+<div class=""cc-steps-list"">
+<div class=""cc-step-row"">
+<div class=""cc-step-circle"">1</div>
+<div class=""cc-step-content"">
+<strong>Position Head:</strong> Gently slide the soft front hood over your pet's head and drape the long body along the spine.</div>
+</div>
+<div class=""cc-step-row"">
+<div class=""cc-step-circle"">2</div>
+<div class=""cc-step-content"">
+<strong>Secure Neck:</strong> Fasten the neck hook-and-loop strap comfortably, leaving room for two fingers.</div>
+</div>
+<div class=""cc-step-row"">
+<div class=""cc-step-circle"">3</div>
+<div class=""cc-step-content"">
+<strong>Wrap Body Straps:</strong> Fasten the chest and waist belly straps underneath to anchor the segmented body.</div>
+</div>
+<div class=""cc-step-row"">
+<div class=""cc-step-circle"">4</div>
+<div class=""cc-step-content"">
+<strong>Fluff &amp; Party:</strong> Spread out the 3D legs and antennae, grab your camera, and enjoy the show!</div>
+</div>
+</div></section><section class=""cc-section"" style=""padding: 0; margin-bottom: 26px;""><div style=""padding: 22px 16px; background: #0f172a !important; border-radius: 16px !important; color: #ffffff !important; text-align: center;"">
+<span style=""display: inline-block; margin-bottom: 6px; color: #f87171 !important; font-size: 11px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase;""> Universal Halloween Pet Fun </span><h2 style=""color: #ffffff !important; font-size: 19.5px !important; margin-top: 0; margin-bottom: 14px; font-weight: 800; line-height: 1.35;"">🎃 Perfect For Trick-or-Treating, Parties &amp; Viral Social Photos 🐾</h2>
+<div class=""cc-zone-grid"">
+<div class=""cc-zone-item"">👻 Trick-or-Treat Walks</div>
+<div class=""cc-zone-item"">🎉 Pet Costume Contests</div>
+<div class=""cc-zone-item"">📸 Holiday Family Photoshoots</div>
+<div class=""cc-zone-item"">📱 Viral TikTok &amp; Reels Videos</div>
+</div>
+</div></section><section class=""cc-section"" style=""margin-bottom: 14px;""><div class=""cc-notice-box"">
+<strong>📌 Sizing &amp; Care Guidance:</strong><ul>
+<li>Always measure your pet's neck, chest, and waist before ordering rather than guessing by breed weight.</li>
+<li>Hand wash cold and line dry to preserve the 3D padded structure, vibrant colors, and hook-and-loop adhesion.</li>
+</ul>
+</div></section><section class=""cc-section""><div style=""text-align: center; margin-bottom: 14px;""><h2>❓ Frequently Asked Questions</h2></div>
+<div class=""cc-faq-box"">
+<details open=""""><summary>Will my pet be able to walk, run, and relieve themselves comfortably?</summary><p>Yes! The underbelly straps are strategically positioned to leave the hindquarters completely free, allowing dogs and cats to walk, trot, sit, and take potty breaks without interference.</p></details><details><summary>Does the costume slide around or fall off easily?</summary><p>No. Thanks to the 4-point securing system (head, neck, chest, and waist), the long segmented body stays securely aligned along the center of the back even during active movement.</p></details><details><summary>Does pet fur stick terribly to the inside?</summary><p>No. The interior is lined with premium anti-stick Oxford cloth that allows pet hair to slide right off, unlike fuzzy fleece linings that trap fur.</p></details><details><summary>Is this costume suitable for both cats and small-to-medium dogs?</summary><p>Yes! As long as your pet's measurements align with the chest (28–39 cm) and waist (32–44 cm) ranges, it fits cats, puppies, and small-to-medium dog breeds wonderfully.</p></details>
+</div></section><section class=""cc-section""><div class=""cc-compact-trust"">
+<div class=""cc-trust-item-compact"">
+<strong>✈️ Tracked Shipping</strong><p>Live tracking link with every order</p>
+</div>
+<div class=""cc-trust-item-compact"" style=""border-left: 1px solid #fef2f2; border-right: 1px solid #fef2f2;"">
+<strong>🔒 30-Day Guarantee</strong><p>Hassle-free replacement or refund</p>
+</div>
+<div class=""cc-trust-item-compact"">
+<strong>🐛 3D Centipede</strong><p>4-point secure hold costume</p>
+</div>
+</div></section><div class=""cc-cta-banner"">
+<h2>🎃 TURN YOUR PET INTO THE COOLEST HALLOWEEN CRAWLER TODAY! 🐾✨</h2>
+<p>Select your favorite accent color above on <strong>povlya</strong> and get ready for endless laughter and viral photos!</p>
+<div class=""cc-cta-trust-line"">
+<span class=""cc-trust-badge"">🔒 Safe Checkout</span> <span class=""cc-trust-badge"">⚡ Fast Fulfillment</span> <span class=""cc-trust-badge"">📦 Insured Tracked Delivery</span>
+</div>
+</div>
+<div class=""cc-trust-grid"">
+<div class=""cc-trust-item"">🔒 Safe Secure</div>
+<div class=""cc-trust-item"">📦 Insured Route</div>
+<div class=""cc-trust-item"">🐾 Fur-Safe Lining</div>
+<div class=""cc-trust-item"">🎃 Viral Fun</div>
+</div>
+</div>",,,,,TRUE,Active,HSS2609150005-红色服装,,Color,Red,,,,,,,,51.00,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/94/94a97a1302db82b44362a277d9e669ee.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/94/94a97a1302db82b44362a277d9e669ee.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,creepy-cute-halloween-centipede-pet-costume,,,,,,,,HSS2609150005-金色服装,,,Gold,,,,,,,,51.00,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/94/94a97a1302db82b44362a277d9e669ee.webp,,,,,,,,,,,,,,,,,,,,,
+,creepy-cute-halloween-centipede-pet-costume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/47/4716d3e3ea72bc5357377c9e4c93b980.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,creepy-cute-halloween-centipede-pet-costume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/5e/5ebe3f860556b7bcff823c7d7774f893.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,creepy-cute-halloween-centipede-pet-costume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/0b/0b3e147e499795a41f287b8789721fc5.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,creepy-cute-halloween-centipede-pet-costume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/ee/eea20d7c88cb8f0654d1706a5dc5678a.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,creepy-cute-halloween-centipede-pet-costume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/4f/4f9b048fc0494632f45b1ca6b49b949e.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,creepy-cute-halloween-centipede-pet-costume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/f3/f3a523a96a60897867cd1da46766a577.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,creepy-cute-halloween-centipede-pet-costume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/0c/0c6d89c76b534f52e61315c3ac77c4c1.webp,8,,,,,,,,,,,,,,,,,,,,,,,
+"✨ $8 Price Difference Payment Link – Not a Product, Do Not Purchase",8-price-difference-payment-link-not-a-product-do-not-purchase,,,,,,TRUE,Active,G09020260918ABSW-1PC,,Style,Buy 1,,,,,,,,8.00,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/86/861b4f1ccfec3c25c01fb7a74e7bc45f.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/86/861b4f1ccfec3c25c01fb7a74e7bc45f.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+✨Christmas Magic Trail Wall Light,✨christmas-magic-trail-wall-light,<p></p>,,,,,TRUE,Active,G09020260914CMTW-A-1PC,,Style,🎅 Santa,,,,,,,,33.35,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/c6/c633c525522b1849f718c5ea3a3db3b0.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/98/98e443f8007b83921dec3010130cd734.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,G09020260914CMTW-E-1PC,,,🚂 Santa’s Toy Delivery Train,,,,,,,,33.35,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/ae/ae1be44e0980c85a64ca7b9f8ec594c6.webp,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,G09020260914CMTW-C-1PC,,,🦌 Reindeer,,,,,,,,33.35,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d5/d53fc4117d81c96e98c63fb67f097c61.webp,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,G09020260914CMTW-H-1PC,,,🎁 Gift Box,,,,,,,,33.35,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/f2/f2d07f4fcb1dc375a3ed861609ff42ec.webp,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,G09020260914CMTW-D-1PC,,,⛄ Snowman,,,,,,,,33.35,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/95/9519064af641a94393467b4df8d57e91.webp,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,G09020260914CMTW-G-1PC,,,🎄 Christmas Tree,,,,,,,,33.35,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/b3/b39c4b8a2929a2606cbcf1a647d59baa.webp,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a7/a7abe895e09b4f16de9acfbd0eca46b0.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/c9/c91b3340ac76963aeeb099561f8374eb.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/98/98e443f8007b83921dec3010130cd734.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/b3/b39c4b8a2929a2606cbcf1a647d59baa.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/95/9519064af641a94393467b4df8d57e91.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/f2/f2d07f4fcb1dc375a3ed861609ff42ec.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,✨christmas-magic-trail-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d5/d53fc4117d81c96e98c63fb67f097c61.webp,8,,,,,,,,,,,,,,,,,,,,,,,
+"✨ $7 Price Difference Payment Link – Not a Product, Do Not Purchase",angel-blessing-starfall-wall-light-7-price-difference-payment,,,,,,TRUE,Active,G09020260918ABSW-1PC,,Style,Buy 1,,,,,,,,7.00,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/ba/ba3d3f1c8ede6c2c86f516588c367ab4.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/ba/ba3d3f1c8ede6c2c86f516588c367ab4.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+💥Last Day 69%Off💥2026 New Limited Edition Easter Commemorative Coin,2026-new-limited-edition-easter-commemorative-coin,<p></p>,,,,,TRUE,Active,G09020260924FHJ-JNB-3PCS,,🔥Buy More Save More🔥,❤️ Buy 1 Get 2 Free (3 Total),,,,,,,,19.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/04/04944c00d80f21ab8c1659f1e293fd76.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/04/04944c00d80f21ab8c1659f1e293fd76.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,2026-new-limited-edition-easter-commemorative-coin,,,,,,,,G09020260924FHJ-JNB-6PCS,,,🔥 Buy 2 Get 4 Free (6 Total),,,,,,,,30.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/04/04944c00d80f21ab8c1659f1e293fd76.webp,,,,,,,,,,,,,,,,,,,,,
+,2026-new-limited-edition-easter-commemorative-coin,,,,,,,,G09020260924FHJ-JNB-9PCS,,,👑 Buy 3 Get 6 Free (9 Total),,,,,,,,36.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/04/04944c00d80f21ab8c1659f1e293fd76.webp,,,,,,,,,,,,,,,,,,,,,
+,2026-new-limited-edition-easter-commemorative-coin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/cb/cb02d632826ab3dff4ea099834746023.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,2026-new-limited-edition-easter-commemorative-coin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/60/60f731269447f1be83e1f54be6bb3266.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,2026-new-limited-edition-easter-commemorative-coin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/92/92f5bc3728ca7b824c880f03a635d54b.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,2026-new-limited-edition-easter-commemorative-coin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/dd/ddd9bf303efb8cfbe367ff231748b7d5.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,2026-new-limited-edition-easter-commemorative-coin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/6b/6b4fac073b30b05b1f62e8a55b05c7ef.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,2026-new-limited-edition-easter-commemorative-coin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/2a/2a60f73ddaaa9ef66329dba097648005.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+🔥Christmas Early Bird Special 69% OFF✨ Angel Blessing Starfall Wall Light – Heavenly Christmas Wall Decor,angel-blessing-starfall-wall-light,"<style> .angel-detail {   max-width: 1200px;   margin: 0 auto;   font-family: Arial, Helvetica, sans-serif;   color: #262626;   line-height: 1.6; }  .angel-detail * {   box-sizing: border-box; }  .angel-detail img {   width: 100%;   display: block; }  .angel-section {   margin: 0 0 56px; }  .angel-copy {   max-width: 850px;   margin: 0 auto;   padding: 34px 24px;   text-align: center; }  .angel-copy h2 {   margin: 0 0 14px;   font-family: Georgia, 'Times New Roman', serif;   font-size: 34px;   line-height: 1.2;   font-weight: 600;   color: #1f1b19; }  .angel-copy p {   max-width: 760px;   margin: 0 auto;   font-size: 17px;   color: #555; }  .angel-highlight {   background: #f8f5ef; }  .angel-dark {   background: #191816;   color: #fff; }  .angel-dark .angel-copy h2, .angel-dark .angel-copy p {   color: #fff; }  .angel-features {   display: grid;   grid-template-columns: repeat(4, 1fr);   gap: 18px;   padding: 20px 24px 42px; }  .angel-feature {   padding: 24px 16px;   text-align: center;   background: #fff;   border: 1px solid #eee8df;   border-radius: 8px; }  .angel-feature .icon {   font-size: 28px;   margin-bottom: 8px; }  .angel-feature strong {   display: block;   font-size: 16px;   margin-bottom: 6px;   color: #27221f; }  .angel-feature span {   font-size: 14px;   color: #666; }  .angel-two-col {   display: grid;   grid-template-columns: 1fr 1fr;   align-items: center;   background: #f8f5ef; }  .angel-two-col .content {   padding: 48px; }  .angel-two-col h2 {   font-family: Georgia, 'Times New Roman', serif;   font-size: 32px;   margin: 0 0 16px;   line-height: 1.25; }  .angel-two-col p {   font-size: 17px;   color: #555;   margin: 0; }  .angel-meaning {   display: grid;   grid-template-columns: repeat(4, 1fr);   gap: 16px;   padding: 25px; }  .angel-meaning-item {   text-align: center;   padding: 30px 15px;   border-radius: 8px;   background: #fff;   border: 1px solid #ebe4d8; }  .angel-meaning-item b {   display: block;   font-family: Georgia, 'Times New Roman', serif;   font-size: 19px;   margin-bottom: 5px; }  .angel-info-wrap {   padding: 15px 24px 40px; }  .angel-info-table {   width: 100%;   max-width: 850px;   margin: auto;   border-collapse: collapse;   font-size: 15px; }  .angel-info-table tr {   border-bottom: 1px solid #e8e8e8; }  .angel-info-table td {   padding: 15px 10px;   vertical-align: top; }  .angel-info-table td:first-child {   width: 35%;   font-weight: bold;   color: #222; }  .angel-package {   max-width: 800px;   margin: auto;   padding: 0 24px 40px; }  .angel-package ul {   padding-left: 20px;   margin: 0; }  .angel-package li {   margin: 8px 0;   font-size: 16px; }  .angel-faq {   max-width: 880px;   margin: 0 auto;   padding: 0 24px 45px; }  .angel-faq details {   border-bottom: 1px solid #ddd;   padding: 16px 0; }  .angel-faq summary {   cursor: pointer;   font-size: 17px;   font-weight: 600;   color: #222; }  .angel-faq details p {   margin: 12px 0 0;   font-size: 15px;   color: #666; }  .angel-note {   max-width: 850px;   margin: 20px auto 50px;   padding: 18px 24px;   text-align: center;   font-size: 13px;   color: #777;   background: #fafafa; }  @media (max-width: 768px) {    .angel-section {     margin-bottom: 36px;   }    .angel-copy {     padding: 27px 18px;   }    .angel-copy h2 {     font-size: 26px;   }    .angel-copy p {     font-size: 15px;   }    .angel-features,   .angel-meaning {     grid-template-columns: repeat(2, 1fr);     padding: 12px 14px 28px;   }    .angel-two-col {     grid-template-columns: 1fr;   }    .angel-two-col .content {     padding: 30px 20px;     text-align: center;   }    .angel-two-col h2 {     font-size: 27px;   }    .angel-two-col p {     font-size: 15px;   }    .angel-info-wrap,   .angel-package,   .angel-faq {     padding-left: 18px;     padding-right: 18px;   }    .angel-info-table td {     font-size: 14px;   } } </style> <div class=""angel-detail"">
+<!-- =========================        MODULE 01 HERO   ========================== --> <div class=""angel-section""> <div class=""angel-copy""> <h2>Let a Little Light From Above Fill Your Home</h2> <p>A graceful angel surrounded by cascading stars creates a warm, peaceful glow across your wall. More than seasonal décor, it brings a beautiful feeling of faith, hope and blessing into your home.<br><img src=""https://cdn.webfastcdn.com/image/1907affcd2ed18b02cff6e5200e40ea6e742f9ac.png"" alt=""preview""></p> </div> </div> <!-- =========================        MODULE 02 STARFALL   ========================== --> <div class=""angel-section angel-dark""> <div class=""angel-copy""> <h2>✨ Watch The Stars Fall</h2> <p>Warm cascading lights flow beneath the angel, creating a heavenly starfall effect that transforms an ordinary wall after dark.</p> <p><img src=""https://cdn.webfastcdn.com/image/4ba311e174183ec58b09a38a17dd464e5eb9bd01.png"" alt=""preview""></p> </div> </div> <!-- =========================        MODULE 03 MEANING   ========================== --> <div class=""angel-section angel-highlight""> <div class=""angel-copy""> <h2>More Than A Wall Light</h2> <p>The angel is a timeless symbol of comfort and blessing, making this glowing display feel meaningful as well as beautiful.</p> </div> <div class=""angel-meaning""> <div class=""angel-meaning-item"">
+<strong>🕊️ </strong>A calming glow for quiet moments.</div> <div class=""angel-meaning-item"">
+<strong>✨ </strong>A gentle reminder of light and faith.</div> <div class=""angel-meaning-item"">
+<strong>❤️ </strong>A meaningful accent for the people you cherish.</div> <div class=""angel-meaning-item"">
+<strong>🙏 </strong>A beautiful symbol for a faith-filled home.</div> </div> </div> <!-- =========================        MODULE 04 WALL TRANSFORMATION   ========================== --> <div class=""angel-section angel-two-col""> <div><img src=""https://cdn.webfastcdn.com/image/980f1c36ba2d460625511af70ce6ad81b7e94134.png"" alt=""preview""></div> <div class=""content""> <h2>Turn An Empty Wall Into A Christmas Moment</h2> <p>Instead of another ordinary string of lights, create one complete wall display that instantly becomes a focal point in your home.</p> </div> </div> <!-- =========================        MODULE 05 DAY & NIGHT   ========================== --> <div class=""angel-section""> <div class=""angel-copy""> <h2>Beautiful By Day. Heavenly By Night.</h2> <p>During the day, the angel adds graceful detail to your décor. After dark, glowing stars bring the entire display to life.</p> <p><img src=""https://cdn.webfastcdn.com/image/8fc38076d05e01bb2bbfc73bf1218f212401e430.png"" alt=""preview""></p> </div> </div> <!-- =========================        MODULE 06 DISPLAY LOCATIONS   ========================== --> <div class=""angel-section angel-highlight""> <div class=""angel-copy""> <h2>A Meaningful Glow For Any Special Space</h2> <p>Add a warm spiritual touch to living rooms, entryways, bedrooms, prayer corners and holiday displays.</p> </div> <div class=""angel-features""> <div class=""angel-feature""> <div class=""icon"">🏠</div> <strong>Living Room</strong>Create a warm holiday focal point.</div> <div class=""angel-feature""> <div class=""icon"">✨</div> <strong>Entryway</strong>Welcome guests with a glowing blessing.</div> <div class=""angel-feature""> <div class=""icon"">🕊️</div> <strong>Prayer Space</strong>Add a peaceful, faith-filled atmosphere.</div> <div class=""angel-feature""> <div class=""icon"">🎄</div> <strong>Christmas Décor</strong>Complete your seasonal display.</div> </div> </div> <!-- =========================        MODULE 07 GIFT   ========================== --> <div class=""angel-section""> <div class=""angel-copy""> <h2>🎁 Give Someone A Little Light From Above</h2> <p>A thoughtful Christmas gift for moms, grandmothers, family members, Christian friends and anyone who finds comfort and meaning in angel-inspired décor.</p> <p><img src=""https://cdn.webfastcdn.com/image/873934463b71e2ec7bf06ee1e7bd7e5e3d2f9740.png"" alt=""preview""></p> </div> </div> <!-- =========================        MODULE 08 DETAIL   ========================== --> <div class=""angel-section angel-two-col""> <div class=""content""> <h2>Designed To Shine With Grace</h2> <p>Carefully shaped angel details combine with delicate hanging lights to create depth, movement and a soft glowing effect without overwhelming your space.</p> </div> <div><img src=""https://cdn.webfastcdn.com/image/f04df8c7834aee5a66cbfe5da5e981af3d9e29a5.png"" alt=""preview""></div> </div> <!-- =========================        PRODUCT INFORMATION   ========================== --> <div class=""angel-section""> <div class=""angel-copy""> <h2>Product Information</h2> </div> <div class=""angel-info-wrap""> <table class=""angel-info-table""> <tbody> <tr> <td>Product Name</td> <td>Angel Blessing Starfall Wall Light</td> </tr> <tr> <td>Style</td> <td>Angel / Faith-Inspired Holiday Wall Décor</td> </tr> <tr> <td>Light Effect</td> <td>Warm glowing cascading starfall illumination</td> </tr> <tr> <td>Placement</td> <td>Wall, entryway, living room, bedroom or prayer space</td> </tr> <tr> <td>Season</td> <td>Christmas / Holiday / Faith-Inspired Home Décor</td> </tr> <tr> <td>Dimensions</td> <td>PLEASE ADD ACTUAL PRODUCT SIZE</td> </tr> <tr> <td>Power Source</td> <td>PLEASE ADD ACTUAL POWER METHOD</td> </tr> <tr> <td>Indoor / Outdoor</td> <td>PLEASE CONFIRM ACTUAL PRODUCT SPECIFICATION</td> </tr> </tbody> </table> </div> </div> <!-- =========================        PACKAGE INCLUDES   ========================== --> <div class=""angel-section angel-highlight""> <div class=""angel-copy""> <h2>What's Included</h2> </div> <div class=""angel-package""> <ul> <li>1 × Angel Blessing Starfall Wall Light</li> <li>1 × Hanging / Mounting Accessories Set</li> <li>1 × Power Component — if applicable</li> <li>1 × User Instructions — if applicable</li> </ul> </div> </div> <!-- =========================        FAQ   ========================== --> <div class=""angel-section""> <div class=""angel-copy""> <h2>Frequently Asked Questions</h2> </div> <div class=""angel-faq"">
+<details> <summary>Does the angel light up?</summary> <p>Yes. The illuminated design creates a warm glowing effect, while the hanging lights create the signature starfall look.</p> </details><details> <summary>Where can I display it?</summary> <p>It works beautifully on feature walls, living room walls, entryways, bedrooms, holiday displays and prayer spaces.</p> </details><details> <summary>Is it suitable as a Christmas gift?</summary> <p>Yes. Its angel-inspired design and warm illumination make it especially suitable for family members, Christian friends, moms, grandmothers and holiday décor lovers.</p> </details><details> <summary>How large is the product?</summary> <p>Please refer to the product size image above for exact dimensions and recommended display proportions.</p> </details><details> <summary>Can it be used outdoors?</summary> <p>Please follow the waterproof rating and placement instructions shown in the product specifications.</p> </details>
+</div> </div> <!-- =========================        DISCLAIMER   ========================== --> <div class=""angel-note"">Please note: Lighting effects shown in lifestyle images may vary slightly depending on the surrounding environment, viewing angle and ambient light. Please refer to the actual product received for final appearance and specifications.</div> </div>",,,,,TRUE,Active,G09020260918ABSW-2PC,,Style,Buy 1 Get 1 Free,,,,,,,,37.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a6/a625f82757ed7b3e8b4133d8715f3478.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a6/a625f82757ed7b3e8b4133d8715f3478.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,angel-blessing-starfall-wall-light,,,,,,,,G09020260918ABSW-1PC,,,Buy 1,,,,,,,,29.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a6/a625f82757ed7b3e8b4133d8715f3478.webp,,,,,,,,,,,,,,,,,,,,,
+,angel-blessing-starfall-wall-light,,,,,,,,G09020260918ABSW-4PC,,,Buy 2 Get 2 Free,,,,,,,,62.98,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a6/a625f82757ed7b3e8b4133d8715f3478.webp,,,,,,,,,,,,,,,,,,,,,
+,angel-blessing-starfall-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/34/341a99cfb5aec7b66ce95ef372a13f72.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,angel-blessing-starfall-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/9a/9a3835e83a197f58eb99a84883caa9fc.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,angel-blessing-starfall-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/b7/b71abd40b66867896ce57b5a007c4add.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,angel-blessing-starfall-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/49/49490e023d6bd81d8b2ec16a35790bf7.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,angel-blessing-starfall-wall-light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/52/52e811b80e7e1216afeb1dfd42dbb3f3.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+✨Last Day 69% OFF✨✝️ Bethlehem Star of Faith,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,"<style> /* =========================================================    BETHLEHEM STAR OF FAITH™    COMPLETE SHOPIFY LANDING PAGE ========================================================= */  .bsf-page{   --cream:#fbf7ef;   --cream2:#f4ead9;   --white:#ffffff;   --ink:#2c2119;   --muted:#6b5e54;   --gold:#c99a43;   --gold-light:#e3bd72;   --wine:#8a2733;   --wine-dark:#681822;   --green:#20392e;   --green2:#172b22;   --line:#e5d7c2;   --soft:#fffaf2;    width:100%;   max-width:920px;   margin:0 auto;   background:#fff;   color:var(--ink);   font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;   line-height:1.65;   overflow:hidden; }  .bsf-page *{   box-sizing:border-box; }  .bsf-page img{   display:block;   width:100%;   height:auto; }  .bsf-page a{   text-decoration:none; }  /* TYPOGRAPHY */  .bsf-kicker{   margin:0 0 10px;   text-align:center;   color:var(--wine);   font-size:15px;   line-height:1.35;   font-weight:900;   letter-spacing:1.7px;   text-transform:uppercase; }  .bsf-h1{   max-width:810px;   margin:0 auto 16px;   text-align:center;   font-family:Georgia,'Times New Roman',serif;   font-size:44px;   line-height:1.12;   color:#2a2018;   font-weight:700; }  .bsf-h2{   max-width:780px;   margin:0 auto 15px;   text-align:center;   font-family:Georgia,'Times New Roman',serif;   font-size:36px;   line-height:1.2;   color:#2b2119; }  .bsf-h3{   margin:0 0 7px;   font-family:Georgia,'Times New Roman',serif;   font-size:25px;   line-height:1.25; }  .bsf-text{   max-width:760px;   margin:0 auto;   text-align:center;   color:var(--muted);   font-size:19px;   line-height:1.72; }  .bsf-small{   font-size:14px;   line-height:1.55;   color:#7a6c62; }  /* GENERAL */  .bsf-section{   padding:50px 28px; }  .bsf-section.alt{   background:var(--cream); }  .bsf-section.dark{   color:#fff;   background:     radial-gradient(circle at top,#3d2b25,#171311 72%); }  .bsf-section.dark .bsf-h2{   color:#fff; }  .bsf-section.dark .bsf-text{   color:#e9ded2; }  .bsf-img{   overflow:hidden;   background:#f7f2e9; }  .bsf-divider{   display:flex;   align-items:center;   justify-content:center;   gap:13px;   margin:20px auto;   color:var(--gold); }  .bsf-divider:before, .bsf-divider:after{   content:'';   width:65px;   height:1px;   background:#dcc492; }  /* =========================================================    TOP TRUST ========================================================= */  .bsf-top{   padding:18px 18px 0;   background:#fff; }  .bsf-trust{   padding:18px 13px;   border:1px solid var(--line);   border-radius:18px;   background:     linear-gradient(135deg,#faf0df,#fff); }  .bsf-trust-grid{   display:grid;   grid-template-columns:repeat(4,1fr);   gap:8px; }  .bsf-trust-item{   padding:9px 4px;   text-align:center; }  .bsf-trust-icon{   width:46px;   height:46px;   margin:0 auto 8px;   display:flex;   align-items:center;   justify-content:center;   border:1px solid #ddc694;   border-radius:50%;   background:#fff;   font-size:22px; }  .bsf-trust-item strong{   display:block;   color:#382b22;   font-size:15px;   line-height:1.28; }  .bsf-trust-item span{   display:block;   margin-top:4px;   color:#796b61;   font-size:12px;   line-height:1.3; }  /* PAYMENT BAR */  .bsf-paymentbar{   margin:12px 18px 27px;   padding:17px 14px;   border-radius:16px;   background:#202620;   color:#fff;   text-align:center; }  .bsf-paymentbar-title{   margin-bottom:11px;   font-size:15px;   font-weight:900;   letter-spacing:.35px; }  .bsf-payment-row{   display:flex;   flex-wrap:wrap;   justify-content:center;   gap:7px; }  .bsf-pay{   padding:8px 12px;   border-radius:7px;   background:#fff;   color:#202020;   font-size:12px;   line-height:1;   font-weight:900; }  /* =========================================================    HERO ========================================================= */  .bsf-hero{   padding:50px 28px 42px;   background:     radial-gradient(circle at top,#fff3d5 0,#fff 68%); }  .bsf-hero-sub{   max-width:770px;   margin:0 auto;   text-align:center;   color:#62554c;   font-size:20px;   line-height:1.68; }  .bsf-rating{   margin:17px auto 0;   text-align:center;   color:#473c34;   font-size:16px;   font-weight:800; }  .bsf-stars{   color:#d79b20;   letter-spacing:2px; }  .bsf-btn{   display:block;   width:min(100%,470px);   margin:26px auto 0;   padding:18px 22px;   border-radius:10px;   background:     linear-gradient(135deg,var(--wine),var(--wine-dark));   box-shadow:     0 9px 23px rgba(120,30,40,.24);   color:#fff !important;   text-align:center;   font-size:19px;   line-height:1.25;   font-weight:900;   letter-spacing:.2px;   cursor:pointer; }  .bsf-btn small{   display:block;   margin-top:4px;   font-size:12px;   font-weight:500;   opacity:.88; }  /* =========================================================    BENEFITS ========================================================= */  .bsf-benefits{   max-width:790px;   margin:30px auto 0;   display:grid;   grid-template-columns:repeat(2,1fr);   gap:12px; }  .bsf-card{   padding:21px 18px;   border:1px solid var(--line);   border-radius:15px;   background:#fff; }  .bsf-card-icon{   margin-bottom:7px;   font-size:28px; }  .bsf-card strong{   display:block;   margin-bottom:5px;   color:#34281f;   font-size:18px; }  .bsf-card p{   margin:0;   color:#6e6157;   font-size:15px;   line-height:1.58; }  /* =========================================================    DAY / NIGHT ========================================================= */  .bsf-daynight{   padding:50px 28px;   background:     linear-gradient(180deg,#faf5eb,#fff); }  /* =========================================================    PLACEMENT POINTS ========================================================= */  .bsf-points{   max-width:770px;   margin:28px auto 0; }  .bsf-point{   display:flex;   align-items:flex-start;   gap:13px;   padding:16px 0;   border-bottom:1px solid #e7ddcd; }  .bsf-point:last-child{   border-bottom:0; }  .bsf-check{   width:30px;   min-width:30px;   height:30px;   display:flex;   align-items:center;   justify-content:center;   border-radius:50%;   background:#eee0bd;   color:#73541f;   font-weight:900; }  .bsf-point strong{   display:block;   margin-bottom:3px;   color:#35291f;   font-size:18px; }  .bsf-point span{   display:block;   color:#6e6157;   font-size:16px; }  /* QUOTE */  .bsf-quote{   max-width:760px;   margin:28px auto 0;   padding:24px 22px;   border-left:4px solid var(--gold);   border-radius:0 13px 13px 0;   background:#fff;   color:#48382d;   font-family:Georgia,'Times New Roman',serif;   font-size:22px;   line-height:1.55; }  /* =========================================================    DARK EMOTION ========================================================= */  .bsf-faith-icons{   max-width:720px;   margin:29px auto 0;   display:grid;   grid-template-columns:repeat(3,1fr);   gap:12px; }  .bsf-faith-item{   padding:20px 12px;   border:1px solid rgba(255,255,255,.15);   border-radius:14px;   background:rgba(255,255,255,.06);   text-align:center; }  .bsf-faith-item .icon{   margin-bottom:7px;   font-size:30px; }  .bsf-faith-item strong{   display:block;   color:#fff;   font-size:16px; }  .bsf-faith-item span{   display:block;   margin-top:4px;   color:#d9cfc2;   font-size:13px; }  /* =========================================================    GIFT ========================================================= */  .bsf-gift{   padding:52px 28px;   background:     linear-gradient(180deg,#35211e,#1b1513);   color:#fff;   text-align:center; }  .bsf-gift .bsf-h2{   color:#fff; }  .bsf-gift .bsf-text{   color:#eadfd2; }  .bsf-gift-tags{   max-width:720px;   margin:25px auto 0;   display:flex;   flex-wrap:wrap;   justify-content:center;   gap:8px; }  .bsf-gift-tags span{   padding:9px 14px;   border:1px solid rgba(255,255,255,.2);   border-radius:30px;   background:rgba(255,255,255,.07);   color:#f1e5d7;   font-size:13px; }  /* =========================================================    HOW TO PAY ========================================================= */  .bsf-howpay{   padding:52px 28px;   background:var(--cream); }  .bsf-paysteps{   max-width:790px;   margin:30px auto 0;   display:grid;   grid-template-columns:repeat(3,1fr);   gap:14px; }  .bsf-paystep{   padding:23px 17px;   border:1px solid #e4d6c0;   border-radius:15px;   background:#fff;   text-align:center; }  .bsf-paynum{   width:43px;   height:43px;   margin:0 auto 11px;   display:flex;   align-items:center;   justify-content:center;   border-radius:50%;   background:var(--wine);   color:#fff;   font-size:19px;   font-weight:900; }  .bsf-paystep strong{   display:block;   margin-bottom:6px;   color:#35291f;   font-size:17px; }  .bsf-paystep span{   display:block;   color:#74665c;   font-size:14px;   line-height:1.55; }  .bsf-card-note{   max-width:760px;   margin:22px auto 0;   padding:20px;   border:1px solid #dfceb0;   border-radius:14px;   background:#fff;   text-align:center; }  .bsf-card-note strong{   display:block;   margin-bottom:5px;   color:#382b22;   font-size:17px; }  .bsf-card-note p{   margin:0;   color:#706359;   font-size:15px;   line-height:1.6; }  .bsf-payment-guide{   max-width:760px;   margin:24px auto 0;   overflow:hidden;   border:1px solid #e2d6c5;   border-radius:14px;   background:#fff; }  .bsf-payment-guide img{   width:100%; }  /* =========================================================    SHOPPING CONFIDENCE ========================================================= */  .bsf-confidence{   padding:51px 28px;   background:#fff; }  .bsf-confidence-box{   max-width:790px;   margin:28px auto 0;   padding:28px 22px;   border:1px solid #dfcfb3;   border-radius:18px;   background:     linear-gradient(135deg,#fffaf1,#f6ebd9);   text-align:center; }  .bsf-confidence-main-icon{   margin-bottom:6px;   font-size:40px; }  .bsf-confidence-grid{   display:grid;   grid-template-columns:repeat(3,1fr);   gap:12px;   margin-top:21px; }  .bsf-confidence-item{   padding:18px 10px;   border:1px solid #e7dac6;   border-radius:12px;   background:#fff; }  .bsf-confidence-item .icon{   margin-bottom:6px;   font-size:28px; }  .bsf-confidence-item strong{   display:block;   color:#372a21;   font-size:15px; }  .bsf-confidence-item span{   display:block;   margin-top:4px;   color:#786b61;   font-size:12px; }  /* =========================================================    SHIPPING ========================================================= */  .bsf-shipping{   padding:49px 28px;   background:     linear-gradient(135deg,var(--green),var(--green2));   color:#fff;   text-align:center; }  .bsf-shipping .bsf-h2{   color:#fff; }  .bsf-shipping .bsf-text{   color:#e4dbd0; }  .bsf-shipping-grid{   max-width:770px;   margin:28px auto 0;   display:grid;   grid-template-columns:repeat(3,1fr);   gap:12px; }  .bsf-shipping-item{   padding:21px 12px;   border:1px solid rgba(255,255,255,.15);   border-radius:14px;   background:rgba(255,255,255,.06); }  .bsf-shipping-item .icon{   margin-bottom:7px;   font-size:29px; }  .bsf-shipping-item strong{   display:block;   color:#fff;   font-size:15px; }  .bsf-shipping-item span{   display:block;   margin-top:4px;   color:#d8cfc4;   font-size:12px;   line-height:1.45; }  /* =========================================================    WHY SHOP ========================================================= */  .bsf-why{   padding:52px 28px;   background:#faf7f1; }  .bsf-whygrid{   max-width:820px;   margin:30px auto 0;   display:grid;   grid-template-columns:repeat(2,1fr);   gap:13px; }  .bsf-whyitem{   display:flex;   align-items:flex-start;   gap:13px;   padding:19px;   border:1px solid #e4d8c7;   border-radius:14px;   background:#fff; }  .bsf-whyicon{   width:43px;   min-width:43px;   height:43px;   display:flex;   align-items:center;   justify-content:center;   border-radius:50%;   background:#f0e0c1;   font-size:21px; }  .bsf-whyitem strong{   display:block;   margin-bottom:4px;   color:#35291f;   font-size:17px; }  .bsf-whyitem span{   display:block;   color:#706359;   font-size:14px;   line-height:1.5; }  /* =========================================================    GUARANTEE ========================================================= */  .bsf-guarantee{   padding:52px 28px;   background:#fff; }  .bsf-guarantee-grid{   max-width:820px;   margin:30px auto 0;   display:grid;   grid-template-columns:repeat(3,1fr);   gap:12px; }  .bsf-guarantee-item{   padding:21px 12px;   border:1px solid #dfd1ba;   border-radius:15px;   background:#fffaf2;   text-align:center; }  .bsf-guarantee-item .icon{   margin-bottom:7px;   font-size:29px; }  .bsf-guarantee-item strong{   display:block;   color:#392c23;   font-size:15px; }  .bsf-guarantee-item span{   display:block;   margin-top:5px;   color:#75685f;   font-size:12px;   line-height:1.45; }  /* =========================================================    SECURE SHOPPING ========================================================= */  .bsf-secure{   margin:0 28px 43px;   padding:30px 22px;   border-radius:18px;   background:     radial-gradient(circle at top,#3b2b24,#171310 72%);   color:#fff;   text-align:center; }  .bsf-secure-icon{   font-size:40px; }  .bsf-secure h3{   margin:6px 0 8px;   font-family:Georgia,'Times New Roman',serif;   font-size:27px; }  .bsf-secure p{   max-width:650px;   margin:0 auto;   color:#ded2c5;   font-size:15px;   line-height:1.65; }  .bsf-secure-mini{   margin-top:19px;   display:flex;   flex-wrap:wrap;   justify-content:center;   gap:8px; }  .bsf-secure-mini span{   padding:7px 12px;   border:1px solid rgba(255,255,255,.18);   border-radius:30px;   color:#f3e8dc;   font-size:12px; }  /* =========================================================    FINAL CTA ========================================================= */  .bsf-finalcta{   padding:52px 28px;   text-align:center;   background:     radial-gradient(circle at top,#fff3d4,#fff 68%); }  /* =========================================================    FAQ ========================================================= */  .bsf-faq{   padding:52px 28px 60px;   background:#f7f3ec; }  .bsf-faq details{   max-width:820px;   margin:0 auto 10px;   overflow:hidden;   border:1px solid #e1d5c4;   border-radius:13px;   background:#fff; }  .bsf-faq summary{   cursor:pointer;   list-style:none;   position:relative;   padding:19px 50px 19px 19px;   color:#34281f;   font-size:18px;   line-height:1.4;   font-weight:800; }  .bsf-faq summary::-webkit-details-marker{   display:none; }  .bsf-faq summary:after{   content:'+';   position:absolute;   right:18px;   top:50%;   transform:translateY(-50%);   color:#9b742c;   font-size:27px; }  .bsf-faq details[open] summary:after{   content:'−'; }  .bsf-faq-answer{   padding:0 19px 20px;   color:#6e6157;   font-size:16px;   line-height:1.65; }  .bsf-faq-note{   max-width:790px;   margin:22px auto 0;   padding:17px;   border-radius:12px;   background:#eee2cf;   color:#594b40;   text-align:center;   font-size:14px; }  /* MOBILE */  @media(max-width:700px){    .bsf-section,   .bsf-hero,   .bsf-daynight,   .bsf-gift,   .bsf-howpay,   .bsf-confidence,   .bsf-shipping,   .bsf-why,   .bsf-guarantee,   .bsf-finalcta,   .bsf-faq{     padding-left:18px;     padding-right:18px;   }    .bsf-h1{     font-size:32px;   }    .bsf-h2{     font-size:29px;   }    .bsf-hero-sub,   .bsf-text{     font-size:18px;   }    .bsf-trust-grid{     grid-template-columns:repeat(2,1fr);   }    .bsf-benefits,   .bsf-whygrid{     grid-template-columns:1fr;   }    .bsf-paysteps,   .bsf-confidence-grid,   .bsf-shipping-grid,   .bsf-guarantee-grid,   .bsf-faith-icons{     grid-template-columns:1fr;   }    .bsf-btn{     font-size:18px;   }    .bsf-quote{     font-size:20px;   }    .bsf-secure{     margin-left:18px;     margin-right:18px;   } } </style>
+<div class=""bsf-page"">
+<!-- =====================================================      TOP TRUST ===================================================== -->
+<div class=""bsf-top"">
+<div class=""bsf-trust"">
+<div class=""bsf-trust-grid"">
+<div class=""bsf-trust-item"">
+<div class=""bsf-trust-icon"">↩️</div>
+<strong>90-Day Free Returns</strong> <span>Shop with confidence</span>
+</div>
+<div class=""bsf-trust-item"">
+<div class=""bsf-trust-icon"">🌎</div>
+<strong>Worldwide Shipping</strong> <span>Delivered with care</span>
+</div>
+<div class=""bsf-trust-item"">
+<div class=""bsf-trust-icon""><span>🎁</span></div>
+<strong>Meaningful Gift<span>Made for Christmas</span></strong>
+</div>
+<div class=""bsf-trust-item"">
+<div class=""bsf-trust-icon"">🔒</div>
+<strong>Secure Checkout</strong> <span>Protected payment</span>
+</div>
+</div>
+</div>
+</div>
+<div class=""bsf-paymentbar"">
+<div class=""bsf-paymentbar-title"">🔐 SAFE &amp; SECURE PAYMENT</div>
+<div class=""bsf-payment-row"">
+<span class=""bsf-pay"">PayPal</span> <span class=""bsf-pay"">Debit Card</span> <span class=""bsf-pay"">Credit Card</span> <span class=""bsf-pay"">VISA</span> <span class=""bsf-pay"">Mastercard</span> <span class=""bsf-pay"">AMEX</span>
+</div>
+</div>
+<!-- =====================================================      HERO ===================================================== -->
+<section class=""bsf-hero"">
+<p class=""bsf-kicker"">✝️ Faith • Family • Christmas</p>
+<h1 class=""bsf-h1"">Let His Light Fill Your Home This Christmas</h1>
+<p class=""bsf-hero-sub"">The Bethlehem Star of Faith™ brings together a radiant Bethlehem Star, cascading golden light and a peaceful Nativity scene — turning an ordinary wall into a glowing reminder of faith, family and the true meaning of Christmas.</p>
+<div class=""bsf-rating"">
+<span class=""bsf-stars"">★★★★★</span>   Excellent 4.8 | 1568+ Reviews</div>
+<a class=""bsf-btn"" href=""#""> BRING THE LIGHT HOME ✨ <small>Scroll to choose yours</small> </a></section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPTImage2026_9_10_22_24_31.png?v=1789098458&amp;width=1600"" alt=""Bethlehem Star of Faith Lighted Nativity Wall Decor"" loading=""eager""></div>
+<!-- =====================================================      VALUE ===================================================== -->
+<section class=""bsf-section"">
+<p class=""bsf-kicker"">More Than Christmas Décor</p>
+<h2 class=""bsf-h2"">A Beautiful Reminder of What Truly Matters</h2>
+<div class=""bsf-divider"">✦</div>
+<p class=""bsf-text"">At the top, the Bethlehem Star shines brightly. Below, cascading points of warm light guide the eye toward Mary, Joseph and the Christ Child — creating a Christmas focal point with both beauty and meaning.</p>
+<div class=""bsf-benefits"">
+<div class=""bsf-card"">
+<div class=""bsf-card-icon"">⭐</div>
+<strong>Radiant Bethlehem Star</strong>
+<p>A layered star design creates an elegant focal point that naturally draws the eye.</p>
+</div>
+<div class=""bsf-card"">
+<div class=""bsf-card-icon"">✨</div>
+<strong>Warm Cascading Light</strong>
+<p>Golden points of light flow downward like a trail of Christmas starlight.</p>
+</div>
+<div class=""bsf-card"">
+<div class=""bsf-card-icon"">✝️</div>
+<strong>Meaningful Nativity Scene</strong>
+<p>Mary, Joseph and the Christ Child keep the true story of Christmas at the center.</p>
+</div>
+<div class=""bsf-card"">
+<div class=""bsf-card-icon"">🎄</div>
+<strong>Rich Holiday Accents</strong>
+<p>Evergreen branches, berries, pinecones and an elegant gold bow complete the traditional Christmas look.</p>
+</div>
+</div>
+</section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_30_13.png?v=1789098497&amp;width=1600"" alt=""Bethlehem Star Nativity Wall Light details"" loading=""lazy""></div>
+<!-- =====================================================      DAY / NIGHT ===================================================== -->
+<section class=""bsf-daynight"">
+<p class=""bsf-kicker"">One Decoration • Two Beautiful Looks</p>
+<h2 class=""bsf-h2"">Beautiful by Day. Magical by Night.</h2>
+<p class=""bsf-text"">During the day, the sculptural star, hanging stars, Nativity silhouettes and greenery create graceful wall décor. After sunset, warm illumination completely transforms the display.</p>
+</section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_25_10.png?v=1789098504&amp;width=1600"" alt=""Bethlehem Star daytime nighttime comparison"" loading=""lazy""></div>
+<!-- =====================================================      PLACEMENT ===================================================== -->
+<section class=""bsf-section"">
+<p class=""bsf-kicker"">Decorate the Space You're Not Using</p>
+<h2 class=""bsf-h2"">Big Christmas Impact Without Taking Up Your Table</h2>
+<p class=""bsf-text"">Its tall vertical format turns narrow wall space into part of your Christmas decorating story — without adding more clutter to tables, shelves or mantels.</p>
+<div class=""bsf-points"">
+<div class=""bsf-point"">
+<div class=""bsf-check"">✓</div>
+<div>
+<strong>Front Entry</strong> <span> Create a warm and meaningful first impression for guests. </span>
+</div>
+</div>
+<div class=""bsf-point"">
+<div class=""bsf-check"">✓</div>
+<div>
+<strong>Living Room</strong> <span> Build a glowing focal point near the Christmas tree or fireplace. </span>
+</div>
+</div>
+<div class=""bsf-point"">
+<div class=""bsf-check"">✓</div>
+<div>
+<strong>Staircase Wall</strong> <span> Fill tall, narrow architectural space with Christmas light. </span>
+</div>
+</div>
+<div class=""bsf-point"">
+<div class=""bsf-check"">✓</div>
+<div>
+<strong>Protected Porch Area</strong> <span> Add a glowing welcome in a suitable sheltered display area. </span>
+</div>
+</div>
+</div>
+</section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_27_46.png?v=1789098521&amp;width=1600"" alt=""Bethlehem Star different display locations"" loading=""lazy""></div>
+<!-- =====================================================      HOME EMOTION ===================================================== -->
+<section class=""bsf-section alt"">
+<p class=""bsf-kicker"">A Warmer Kind of Christmas Welcome</p>
+<h2 class=""bsf-h2"">Let the Meaning of Christmas Be Seen Before a Word Is Spoken</h2>
+<p class=""bsf-text"">The Bethlehem Star, warm glow and Holy Family scene create a display that feels festive without becoming overly flashy — beautiful Christmas décor with a reason behind it.</p>
+<div class=""bsf-quote"">“Let His light fill your home, your heart and your Christmas.”</div>
+</section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_43_29.png?v=1789098550&amp;width=1600"" alt=""Bethlehem Star faith Christmas home decor"" loading=""lazy""></div>
+<!-- =====================================================      TRADITION / FAITH ===================================================== -->
+<section class=""bsf-section dark"">
+<p class=""bsf-kicker"" style=""color: #e3bd74;"">A Tradition Worth Bringing Back Every Year</p>
+<h2 class=""bsf-h2"">Not Just Something You Hang — Something You Feel</h2>
+<p class=""bsf-text"">Some Christmas decorations simply fill an empty wall. Others become part of the memories — the light beside the tree, quiet December evenings, family gathered together, and the decoration everyone remembers seeing year after year.</p>
+<div class=""bsf-faith-icons"">
+<div class=""bsf-faith-item"">
+<div class=""icon"">✝️</div>
+<strong>Faith</strong> <span>A reminder of the reason for the season</span>
+</div>
+<div class=""bsf-faith-item"">
+<div class=""icon"">❤️</div>
+<strong>Family</strong> <span>Made for meaningful Christmas moments</span>
+</div>
+<div class=""bsf-faith-item"">
+<div class=""icon"">✨</div>
+<strong>Light</strong> <span>A warm glow throughout the holidays</span>
+</div>
+</div>
+</section>
+<!-- =====================================================      GIFT ===================================================== -->
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_32_22.png?v=1789098556&amp;width=1600"" alt=""Bethlehem Star meaningful Christmas gift"" loading=""lazy""></div>
+<section class=""bsf-gift"">
+<p class=""bsf-kicker"" style=""color: #e5bd72;"">For Someone Who Still Loves the Meaning of Christmas</p>
+<h2 class=""bsf-h2"">Give More Than Another Christmas Decoration</h2>
+<p class=""bsf-text"">For parents. Grandparents. Faith-filled friends. Christmas hosts. And the person who believes Christmas should still feel meaningful. Give them something they can bring out year after year.</p>
+<div class=""bsf-gift-tags"">
+<span>🎁 Parents</span> <span>❤️ Grandparents</span> <span>✝️ Faith-Inspired Gift</span> <span>🎄 Christmas Lovers</span> <span>🏡 New Home Gift</span>
+</div>
+<a class=""bsf-btn"" href=""#""> CHOOSE YOUR BETHLEHEM STAR ✨ <small>Scroll to the purchase options</small> </a></section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_53_13.png?v=1789098820&amp;width=1600"" alt=""Woman holding Bethlehem Star Christmas wall light"" loading=""lazy""></div>
+<!-- =====================================================      HOW TO PAY      Learned ending structure ===================================================== -->
+<section class=""bsf-howpay"">
+<p class=""bsf-kicker"">Simple &amp; Secure Checkout</p>
+<h2 class=""bsf-h2"">How To Pay</h2>
+<p class=""bsf-text"">We accept PayPal, debit cards and major credit cards. Complete your purchase securely in just a few simple steps.</p>
+<div class=""bsf-paysteps"">
+<div class=""bsf-paystep"">
+<div class=""bsf-paynum"">1</div>
+<strong>Add To Cart</strong> <span> Select your preferred option and add it to your cart. </span>
+</div>
+<div class=""bsf-paystep"">
+<div class=""bsf-paynum"">2</div>
+<strong>Proceed To Checkout</strong> <span> Enter your shipping information and choose your shipping method. </span>
+</div>
+<div class=""bsf-paystep"">
+<div class=""bsf-paynum"">3</div>
+<strong>Choose Your Payment Method</strong> <span> Pay securely using PayPal, debit card or credit card. </span>
+</div>
+</div>
+<div class=""bsf-card-note"">
+<strong>💳 Paying by Debit or Credit Card?</strong>
+<p>Enter your card number, expiration date and security code during secure checkout.</p>
+</div>
+<div class=""bsf-payment-guide""><img src=""https://cdn.webfastcdn.com/image/48dcd2838f2d7a4caf770b270a0bd2ae0fa7dfae.jpg"" alt=""How to pay with PayPal debit or credit card"" loading=""lazy""></div>
+</section>
+<!-- =====================================================      SHOPPING CONFIDENCE ===================================================== -->
+<section class=""bsf-confidence"">
+<p class=""bsf-kicker"">Shopping Confidence</p>
+<h2 class=""bsf-h2"">Secure Shopping &amp; Quality Commitment</h2>
+<p class=""bsf-text"">Shop with greater confidence. We work to make every order simple, secure and supported from checkout through delivery.</p>
+<div class=""bsf-confidence-box"">
+<div class=""bsf-confidence-main-icon"">🛡️</div>
+<h3 class=""bsf-h3"">Buy With Greater Peace of Mind</h3>
+<p class=""bsf-small"" style=""max-width: 630px; margin: 0 auto;"">Secure checkout, customer support and return support help create a more dependable shopping experience.</p>
+<div class=""bsf-confidence-grid"">
+<div class=""bsf-confidence-item"">
+<div class=""icon"">🔒</div>
+<strong>Secure Checkout</strong> <span>Protected payment processing</span>
+</div>
+<div class=""bsf-confidence-item"">
+<div class=""icon"">↩️</div>
+<strong>90-Day Return Support</strong> <span>Extra peace of mind</span>
+</div>
+<div class=""bsf-confidence-item"">
+<div class=""icon"">💬</div>
+<strong>Helpful Support</strong> <span>Questions? We're here to help</span>
+</div>
+</div>
+</div>
+</section>
+<!-- =====================================================      WORLDWIDE SHIPPING ===================================================== -->
+<section class=""bsf-shipping"">
+<p class=""bsf-kicker"" style=""color: #e3bd74;"">Delivered With Care</p>
+<h2 class=""bsf-h2"">🌎 Worldwide Shipping</h2>
+<p class=""bsf-text"">Shipping is calculated at checkout. Worldwide shipping options are available to supported destinations.</p>
+<div class=""bsf-shipping-grid"">
+<div class=""bsf-shipping-item"">
+<div class=""icon"">🌎</div>
+<strong>Worldwide Shipping</strong> <span>Available to supported destinations</span>
+</div>
+<div class=""bsf-shipping-item"">
+<div class=""icon"">✈️</div>
+<strong>Free Shipping $49.98+</strong> <span>On qualifying orders</span>
+</div>
+<div class=""bsf-shipping-item"">
+<div class=""icon"">📦</div>
+<strong>Order Tracking</strong> <span>Tracking details provided when available</span>
+</div>
+</div>
+</section>
+<!-- =====================================================      WHY SHOP WITH US ===================================================== -->
+<section class=""bsf-why"">
+<p class=""bsf-kicker"">Why BestJas?</p>
+<h2 class=""bsf-h2"">Why Shop With Us?</h2>
+<p class=""bsf-text"">We work to make every order simple, dependable and enjoyable.</p>
+<div class=""bsf-whygrid"">
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">✓</div>
+<div>
+<strong>Quality Control</strong> <span> Our quality-control process helps us maintain consistent product standards. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">💰</div>
+<div>
+<strong>Competitive Pricing</strong> <span> We work to provide products at fair and competitive prices. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">💬</div>
+<div>
+<strong>Helpful Customer Service</strong> <span> Our support team is available to assist with questions about your order. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">✨</div>
+<div>
+<strong>Carefully Selected Products</strong> <span> We choose products with visual appeal and customer experience in mind. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">❤️</div>
+<div>
+<strong>Customer Feedback</strong> <span> Customer experiences help us continue improving our products and service. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">🎄</div>
+<div>
+<strong>Memorable Home Décor</strong> <span> We look for pieces that feel special rather than ordinary. </span>
+</div>
+</div>
+</div>
+</section>
+<!-- =====================================================      OUR GUARANTEE ===================================================== -->
+<section class=""bsf-guarantee"">
+<p class=""bsf-kicker"">Our Promise</p>
+<h2 class=""bsf-h2"">Our Guarantee</h2>
+<p class=""bsf-text"">Your shopping experience matters to us. Here is how we help protect your order.</p>
+<div class=""bsf-guarantee-grid"">
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">🌎</div>
+<strong>Worldwide Shipping</strong> <span> Shipping options available at checkout. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">↩️</div>
+<strong>90-Day Return Support</strong> <span> Review current terms for eligibility. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">💬</div>
+<strong>Customer Support</strong> <span> Assistance for order and product questions. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">🔒</div>
+<strong>Safe &amp; Secure Checkout</strong> <span> SSL encryption helps protect your information. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">🛡️</div>
+<strong>Risk-Free Shopping</strong> <span> Contact support if you have an eligible issue. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">📦</div>
+<strong>Order Tracking</strong> <span> Tracking details provided when available. </span>
+</div>
+</div>
+</section>
+<!-- =====================================================      SECURE SHOPPING ===================================================== -->
+<div class=""bsf-secure"">
+<div class=""bsf-secure-icon"">🔐</div>
+<h3>Secure Shopping Guarantee</h3>
+<p>Your personal and payment information is processed through secure checkout methods. Shop with greater confidence knowing your order is supported before and after purchase.</p>
+<div class=""bsf-secure-mini"">
+<span>🔒 Secure Checkout</span> <span>↩️ 90-Day Return Support</span> <span>🌎 Worldwide Shipping</span> <span>📦 Order Tracking</span> <span>💬 Customer Support</span>
+</div>
+</div>
+<!-- =====================================================      FINAL CTA ===================================================== -->
+<section class=""bsf-finalcta"">
+<p> </p>
+</section>
+</div>",,,,,TRUE,Active,G09020260916LNWD-1PC,,Style,BUY 1,,,,,,,,29.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/01/01d8b1612dece6b51cc8ce6f3901a174.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/01/01d8b1612dece6b51cc8ce6f3901a174.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,,,,,,,,G09020260916LNWD-2PC,,,BUY 1 GET 1 FREE,,,,,,,,34.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/01/01d8b1612dece6b51cc8ce6f3901a174.webp,,,,,,,,,,,,,,,,,,,,,
+,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,,,,,,,,G09020260916LNWD-4PC,,,BUY 2 GET 2 FREE,,,,,,,,59.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/01/01d8b1612dece6b51cc8ce6f3901a174.webp,,,,,,,,,,,,,,,,,,,,,
+,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/b5/b5f7db540e729f41365bf8223d8f31dd.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/0a/0abf70be48a06797ef59de60c7ddaabf.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/66/660a119de4e299ba8579b14c1d0b497b.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/43/434c2b28a0fde927a7804ef4099ed826.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a7/a7c5cce61a8a3394ce032905fb1ff456.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,✨last-day-73-off✨✝️-bethlehem-star-of-faith-lighted-nativity-wall-decor-copy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/34/3431bdf0048c59c7c2598c876937e21e.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+✨Christmas Early Bird Special 69% OFF✨✝️ Bethlehem Star of Faith – Lighted Nativity Wall Decor,bethlehem-star,"<style> /* =========================================================    BETHLEHEM STAR OF FAITH™    COMPLETE SHOPIFY LANDING PAGE ========================================================= */  .bsf-page{   --cream:#fbf7ef;   --cream2:#f4ead9;   --white:#ffffff;   --ink:#2c2119;   --muted:#6b5e54;   --gold:#c99a43;   --gold-light:#e3bd72;   --wine:#8a2733;   --wine-dark:#681822;   --green:#20392e;   --green2:#172b22;   --line:#e5d7c2;   --soft:#fffaf2;    width:100%;   max-width:920px;   margin:0 auto;   background:#fff;   color:var(--ink);   font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;   line-height:1.65;   overflow:hidden; }  .bsf-page *{   box-sizing:border-box; }  .bsf-page img{   display:block;   width:100%;   height:auto; }  .bsf-page a{   text-decoration:none; }  /* TYPOGRAPHY */  .bsf-kicker{   margin:0 0 10px;   text-align:center;   color:var(--wine);   font-size:15px;   line-height:1.35;   font-weight:900;   letter-spacing:1.7px;   text-transform:uppercase; }  .bsf-h1{   max-width:810px;   margin:0 auto 16px;   text-align:center;   font-family:Georgia,'Times New Roman',serif;   font-size:44px;   line-height:1.12;   color:#2a2018;   font-weight:700; }  .bsf-h2{   max-width:780px;   margin:0 auto 15px;   text-align:center;   font-family:Georgia,'Times New Roman',serif;   font-size:36px;   line-height:1.2;   color:#2b2119; }  .bsf-h3{   margin:0 0 7px;   font-family:Georgia,'Times New Roman',serif;   font-size:25px;   line-height:1.25; }  .bsf-text{   max-width:760px;   margin:0 auto;   text-align:center;   color:var(--muted);   font-size:19px;   line-height:1.72; }  .bsf-small{   font-size:14px;   line-height:1.55;   color:#7a6c62; }  /* GENERAL */  .bsf-section{   padding:50px 28px; }  .bsf-section.alt{   background:var(--cream); }  .bsf-section.dark{   color:#fff;   background:     radial-gradient(circle at top,#3d2b25,#171311 72%); }  .bsf-section.dark .bsf-h2{   color:#fff; }  .bsf-section.dark .bsf-text{   color:#e9ded2; }  .bsf-img{   overflow:hidden;   background:#f7f2e9; }  .bsf-divider{   display:flex;   align-items:center;   justify-content:center;   gap:13px;   margin:20px auto;   color:var(--gold); }  .bsf-divider:before, .bsf-divider:after{   content:'';   width:65px;   height:1px;   background:#dcc492; }  /* =========================================================    TOP TRUST ========================================================= */  .bsf-top{   padding:18px 18px 0;   background:#fff; }  .bsf-trust{   padding:18px 13px;   border:1px solid var(--line);   border-radius:18px;   background:     linear-gradient(135deg,#faf0df,#fff); }  .bsf-trust-grid{   display:grid;   grid-template-columns:repeat(4,1fr);   gap:8px; }  .bsf-trust-item{   padding:9px 4px;   text-align:center; }  .bsf-trust-icon{   width:46px;   height:46px;   margin:0 auto 8px;   display:flex;   align-items:center;   justify-content:center;   border:1px solid #ddc694;   border-radius:50%;   background:#fff;   font-size:22px; }  .bsf-trust-item strong{   display:block;   color:#382b22;   font-size:15px;   line-height:1.28; }  .bsf-trust-item span{   display:block;   margin-top:4px;   color:#796b61;   font-size:12px;   line-height:1.3; }  /* PAYMENT BAR */  .bsf-paymentbar{   margin:12px 18px 27px;   padding:17px 14px;   border-radius:16px;   background:#202620;   color:#fff;   text-align:center; }  .bsf-paymentbar-title{   margin-bottom:11px;   font-size:15px;   font-weight:900;   letter-spacing:.35px; }  .bsf-payment-row{   display:flex;   flex-wrap:wrap;   justify-content:center;   gap:7px; }  .bsf-pay{   padding:8px 12px;   border-radius:7px;   background:#fff;   color:#202020;   font-size:12px;   line-height:1;   font-weight:900; }  /* =========================================================    HERO ========================================================= */  .bsf-hero{   padding:50px 28px 42px;   background:     radial-gradient(circle at top,#fff3d5 0,#fff 68%); }  .bsf-hero-sub{   max-width:770px;   margin:0 auto;   text-align:center;   color:#62554c;   font-size:20px;   line-height:1.68; }  .bsf-rating{   margin:17px auto 0;   text-align:center;   color:#473c34;   font-size:16px;   font-weight:800; }  .bsf-stars{   color:#d79b20;   letter-spacing:2px; }  .bsf-btn{   display:block;   width:min(100%,470px);   margin:26px auto 0;   padding:18px 22px;   border-radius:10px;   background:     linear-gradient(135deg,var(--wine),var(--wine-dark));   box-shadow:     0 9px 23px rgba(120,30,40,.24);   color:#fff !important;   text-align:center;   font-size:19px;   line-height:1.25;   font-weight:900;   letter-spacing:.2px;   cursor:pointer; }  .bsf-btn small{   display:block;   margin-top:4px;   font-size:12px;   font-weight:500;   opacity:.88; }  /* =========================================================    BENEFITS ========================================================= */  .bsf-benefits{   max-width:790px;   margin:30px auto 0;   display:grid;   grid-template-columns:repeat(2,1fr);   gap:12px; }  .bsf-card{   padding:21px 18px;   border:1px solid var(--line);   border-radius:15px;   background:#fff; }  .bsf-card-icon{   margin-bottom:7px;   font-size:28px; }  .bsf-card strong{   display:block;   margin-bottom:5px;   color:#34281f;   font-size:18px; }  .bsf-card p{   margin:0;   color:#6e6157;   font-size:15px;   line-height:1.58; }  /* =========================================================    DAY / NIGHT ========================================================= */  .bsf-daynight{   padding:50px 28px;   background:     linear-gradient(180deg,#faf5eb,#fff); }  /* =========================================================    PLACEMENT POINTS ========================================================= */  .bsf-points{   max-width:770px;   margin:28px auto 0; }  .bsf-point{   display:flex;   align-items:flex-start;   gap:13px;   padding:16px 0;   border-bottom:1px solid #e7ddcd; }  .bsf-point:last-child{   border-bottom:0; }  .bsf-check{   width:30px;   min-width:30px;   height:30px;   display:flex;   align-items:center;   justify-content:center;   border-radius:50%;   background:#eee0bd;   color:#73541f;   font-weight:900; }  .bsf-point strong{   display:block;   margin-bottom:3px;   color:#35291f;   font-size:18px; }  .bsf-point span{   display:block;   color:#6e6157;   font-size:16px; }  /* QUOTE */  .bsf-quote{   max-width:760px;   margin:28px auto 0;   padding:24px 22px;   border-left:4px solid var(--gold);   border-radius:0 13px 13px 0;   background:#fff;   color:#48382d;   font-family:Georgia,'Times New Roman',serif;   font-size:22px;   line-height:1.55; }  /* =========================================================    DARK EMOTION ========================================================= */  .bsf-faith-icons{   max-width:720px;   margin:29px auto 0;   display:grid;   grid-template-columns:repeat(3,1fr);   gap:12px; }  .bsf-faith-item{   padding:20px 12px;   border:1px solid rgba(255,255,255,.15);   border-radius:14px;   background:rgba(255,255,255,.06);   text-align:center; }  .bsf-faith-item .icon{   margin-bottom:7px;   font-size:30px; }  .bsf-faith-item strong{   display:block;   color:#fff;   font-size:16px; }  .bsf-faith-item span{   display:block;   margin-top:4px;   color:#d9cfc2;   font-size:13px; }  /* =========================================================    GIFT ========================================================= */  .bsf-gift{   padding:52px 28px;   background:     linear-gradient(180deg,#35211e,#1b1513);   color:#fff;   text-align:center; }  .bsf-gift .bsf-h2{   color:#fff; }  .bsf-gift .bsf-text{   color:#eadfd2; }  .bsf-gift-tags{   max-width:720px;   margin:25px auto 0;   display:flex;   flex-wrap:wrap;   justify-content:center;   gap:8px; }  .bsf-gift-tags span{   padding:9px 14px;   border:1px solid rgba(255,255,255,.2);   border-radius:30px;   background:rgba(255,255,255,.07);   color:#f1e5d7;   font-size:13px; }  /* =========================================================    HOW TO PAY ========================================================= */  .bsf-howpay{   padding:52px 28px;   background:var(--cream); }  .bsf-paysteps{   max-width:790px;   margin:30px auto 0;   display:grid;   grid-template-columns:repeat(3,1fr);   gap:14px; }  .bsf-paystep{   padding:23px 17px;   border:1px solid #e4d6c0;   border-radius:15px;   background:#fff;   text-align:center; }  .bsf-paynum{   width:43px;   height:43px;   margin:0 auto 11px;   display:flex;   align-items:center;   justify-content:center;   border-radius:50%;   background:var(--wine);   color:#fff;   font-size:19px;   font-weight:900; }  .bsf-paystep strong{   display:block;   margin-bottom:6px;   color:#35291f;   font-size:17px; }  .bsf-paystep span{   display:block;   color:#74665c;   font-size:14px;   line-height:1.55; }  .bsf-card-note{   max-width:760px;   margin:22px auto 0;   padding:20px;   border:1px solid #dfceb0;   border-radius:14px;   background:#fff;   text-align:center; }  .bsf-card-note strong{   display:block;   margin-bottom:5px;   color:#382b22;   font-size:17px; }  .bsf-card-note p{   margin:0;   color:#706359;   font-size:15px;   line-height:1.6; }  .bsf-payment-guide{   max-width:760px;   margin:24px auto 0;   overflow:hidden;   border:1px solid #e2d6c5;   border-radius:14px;   background:#fff; }  .bsf-payment-guide img{   width:100%; }  /* =========================================================    SHOPPING CONFIDENCE ========================================================= */  .bsf-confidence{   padding:51px 28px;   background:#fff; }  .bsf-confidence-box{   max-width:790px;   margin:28px auto 0;   padding:28px 22px;   border:1px solid #dfcfb3;   border-radius:18px;   background:     linear-gradient(135deg,#fffaf1,#f6ebd9);   text-align:center; }  .bsf-confidence-main-icon{   margin-bottom:6px;   font-size:40px; }  .bsf-confidence-grid{   display:grid;   grid-template-columns:repeat(3,1fr);   gap:12px;   margin-top:21px; }  .bsf-confidence-item{   padding:18px 10px;   border:1px solid #e7dac6;   border-radius:12px;   background:#fff; }  .bsf-confidence-item .icon{   margin-bottom:6px;   font-size:28px; }  .bsf-confidence-item strong{   display:block;   color:#372a21;   font-size:15px; }  .bsf-confidence-item span{   display:block;   margin-top:4px;   color:#786b61;   font-size:12px; }  /* =========================================================    SHIPPING ========================================================= */  .bsf-shipping{   padding:49px 28px;   background:     linear-gradient(135deg,var(--green),var(--green2));   color:#fff;   text-align:center; }  .bsf-shipping .bsf-h2{   color:#fff; }  .bsf-shipping .bsf-text{   color:#e4dbd0; }  .bsf-shipping-grid{   max-width:770px;   margin:28px auto 0;   display:grid;   grid-template-columns:repeat(3,1fr);   gap:12px; }  .bsf-shipping-item{   padding:21px 12px;   border:1px solid rgba(255,255,255,.15);   border-radius:14px;   background:rgba(255,255,255,.06); }  .bsf-shipping-item .icon{   margin-bottom:7px;   font-size:29px; }  .bsf-shipping-item strong{   display:block;   color:#fff;   font-size:15px; }  .bsf-shipping-item span{   display:block;   margin-top:4px;   color:#d8cfc4;   font-size:12px;   line-height:1.45; }  /* =========================================================    WHY SHOP ========================================================= */  .bsf-why{   padding:52px 28px;   background:#faf7f1; }  .bsf-whygrid{   max-width:820px;   margin:30px auto 0;   display:grid;   grid-template-columns:repeat(2,1fr);   gap:13px; }  .bsf-whyitem{   display:flex;   align-items:flex-start;   gap:13px;   padding:19px;   border:1px solid #e4d8c7;   border-radius:14px;   background:#fff; }  .bsf-whyicon{   width:43px;   min-width:43px;   height:43px;   display:flex;   align-items:center;   justify-content:center;   border-radius:50%;   background:#f0e0c1;   font-size:21px; }  .bsf-whyitem strong{   display:block;   margin-bottom:4px;   color:#35291f;   font-size:17px; }  .bsf-whyitem span{   display:block;   color:#706359;   font-size:14px;   line-height:1.5; }  /* =========================================================    GUARANTEE ========================================================= */  .bsf-guarantee{   padding:52px 28px;   background:#fff; }  .bsf-guarantee-grid{   max-width:820px;   margin:30px auto 0;   display:grid;   grid-template-columns:repeat(3,1fr);   gap:12px; }  .bsf-guarantee-item{   padding:21px 12px;   border:1px solid #dfd1ba;   border-radius:15px;   background:#fffaf2;   text-align:center; }  .bsf-guarantee-item .icon{   margin-bottom:7px;   font-size:29px; }  .bsf-guarantee-item strong{   display:block;   color:#392c23;   font-size:15px; }  .bsf-guarantee-item span{   display:block;   margin-top:5px;   color:#75685f;   font-size:12px;   line-height:1.45; }  /* =========================================================    SECURE SHOPPING ========================================================= */  .bsf-secure{   margin:0 28px 43px;   padding:30px 22px;   border-radius:18px;   background:     radial-gradient(circle at top,#3b2b24,#171310 72%);   color:#fff;   text-align:center; }  .bsf-secure-icon{   font-size:40px; }  .bsf-secure h3{   margin:6px 0 8px;   font-family:Georgia,'Times New Roman',serif;   font-size:27px; }  .bsf-secure p{   max-width:650px;   margin:0 auto;   color:#ded2c5;   font-size:15px;   line-height:1.65; }  .bsf-secure-mini{   margin-top:19px;   display:flex;   flex-wrap:wrap;   justify-content:center;   gap:8px; }  .bsf-secure-mini span{   padding:7px 12px;   border:1px solid rgba(255,255,255,.18);   border-radius:30px;   color:#f3e8dc;   font-size:12px; }  /* =========================================================    FINAL CTA ========================================================= */  .bsf-finalcta{   padding:52px 28px;   text-align:center;   background:     radial-gradient(circle at top,#fff3d4,#fff 68%); }  /* =========================================================    FAQ ========================================================= */  .bsf-faq{   padding:52px 28px 60px;   background:#f7f3ec; }  .bsf-faq details{   max-width:820px;   margin:0 auto 10px;   overflow:hidden;   border:1px solid #e1d5c4;   border-radius:13px;   background:#fff; }  .bsf-faq summary{   cursor:pointer;   list-style:none;   position:relative;   padding:19px 50px 19px 19px;   color:#34281f;   font-size:18px;   line-height:1.4;   font-weight:800; }  .bsf-faq summary::-webkit-details-marker{   display:none; }  .bsf-faq summary:after{   content:'+';   position:absolute;   right:18px;   top:50%;   transform:translateY(-50%);   color:#9b742c;   font-size:27px; }  .bsf-faq details[open] summary:after{   content:'−'; }  .bsf-faq-answer{   padding:0 19px 20px;   color:#6e6157;   font-size:16px;   line-height:1.65; }  .bsf-faq-note{   max-width:790px;   margin:22px auto 0;   padding:17px;   border-radius:12px;   background:#eee2cf;   color:#594b40;   text-align:center;   font-size:14px; }  /* MOBILE */  @media(max-width:700px){    .bsf-section,   .bsf-hero,   .bsf-daynight,   .bsf-gift,   .bsf-howpay,   .bsf-confidence,   .bsf-shipping,   .bsf-why,   .bsf-guarantee,   .bsf-finalcta,   .bsf-faq{     padding-left:18px;     padding-right:18px;   }    .bsf-h1{     font-size:32px;   }    .bsf-h2{     font-size:29px;   }    .bsf-hero-sub,   .bsf-text{     font-size:18px;   }    .bsf-trust-grid{     grid-template-columns:repeat(2,1fr);   }    .bsf-benefits,   .bsf-whygrid{     grid-template-columns:1fr;   }    .bsf-paysteps,   .bsf-confidence-grid,   .bsf-shipping-grid,   .bsf-guarantee-grid,   .bsf-faith-icons{     grid-template-columns:1fr;   }    .bsf-btn{     font-size:18px;   }    .bsf-quote{     font-size:20px;   }    .bsf-secure{     margin-left:18px;     margin-right:18px;   } } </style>
+<div class=""bsf-page"">
+<!-- =====================================================      TOP TRUST ===================================================== -->
+<div class=""bsf-top"">
+<div class=""bsf-trust"">
+<div class=""bsf-trust-grid"">
+<div class=""bsf-trust-item"">
+<div class=""bsf-trust-icon"">↩️</div>
+<strong>90-Day Free Returns</strong> <span>Shop with confidence</span>
+</div>
+<div class=""bsf-trust-item"">
+<div class=""bsf-trust-icon"">🌎</div>
+<strong>Worldwide Shipping</strong> <span>Delivered with care</span>
+</div>
+<div class=""bsf-trust-item"">
+<div class=""bsf-trust-icon""><span>🎁</span></div>
+<strong>Meaningful Gift<span>Made for Christmas</span></strong>
+</div>
+<div class=""bsf-trust-item"">
+<div class=""bsf-trust-icon"">🔒</div>
+<strong>Secure Checkout</strong> <span>Protected payment</span>
+</div>
+</div>
+</div>
+</div>
+<div class=""bsf-paymentbar"">
+<div class=""bsf-paymentbar-title"">🔐 SAFE &amp; SECURE PAYMENT</div>
+<div class=""bsf-payment-row"">
+<span class=""bsf-pay"">PayPal</span> <span class=""bsf-pay"">Debit Card</span> <span class=""bsf-pay"">Credit Card</span> <span class=""bsf-pay"">VISA</span> <span class=""bsf-pay"">Mastercard</span> <span class=""bsf-pay"">AMEX</span>
+</div>
+</div>
+<!-- =====================================================      HERO ===================================================== -->
+<section class=""bsf-hero"">
+<p class=""bsf-kicker"">✝️ Faith • Family • Christmas</p>
+<h1 class=""bsf-h1"">Let His Light Fill Your Home This Christmas</h1>
+<p class=""bsf-hero-sub"">The Bethlehem Star of Faith™ brings together a radiant Bethlehem Star, cascading golden light and a peaceful Nativity scene — turning an ordinary wall into a glowing reminder of faith, family and the true meaning of Christmas.</p>
+<div class=""bsf-rating"">
+<span class=""bsf-stars"">★★★★★</span>   Excellent 4.8 | 1568+ Reviews</div>
+<a class=""bsf-btn"" href=""#""> BRING THE LIGHT HOME ✨ <small>Scroll to choose yours</small> </a></section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPTImage2026_9_10_22_24_31.png?v=1789098458&amp;width=1600"" alt=""Bethlehem Star of Faith Lighted Nativity Wall Decor"" loading=""eager""></div>
+<!-- =====================================================      VALUE ===================================================== -->
+<section class=""bsf-section"">
+<p class=""bsf-kicker"">More Than Christmas Décor</p>
+<h2 class=""bsf-h2"">A Beautiful Reminder of What Truly Matters</h2>
+<div class=""bsf-divider"">✦</div>
+<p class=""bsf-text"">At the top, the Bethlehem Star shines brightly. Below, cascading points of warm light guide the eye toward Mary, Joseph and the Christ Child — creating a Christmas focal point with both beauty and meaning.</p>
+<div class=""bsf-benefits"">
+<div class=""bsf-card"">
+<div class=""bsf-card-icon"">⭐</div>
+<strong>Radiant Bethlehem Star</strong>
+<p>A layered star design creates an elegant focal point that naturally draws the eye.</p>
+</div>
+<div class=""bsf-card"">
+<div class=""bsf-card-icon"">✨</div>
+<strong>Warm Cascading Light</strong>
+<p>Golden points of light flow downward like a trail of Christmas starlight.</p>
+</div>
+<div class=""bsf-card"">
+<div class=""bsf-card-icon"">✝️</div>
+<strong>Meaningful Nativity Scene</strong>
+<p>Mary, Joseph and the Christ Child keep the true story of Christmas at the center.</p>
+</div>
+<div class=""bsf-card"">
+<div class=""bsf-card-icon"">🎄</div>
+<strong>Rich Holiday Accents</strong>
+<p>Evergreen branches, berries, pinecones and an elegant gold bow complete the traditional Christmas look.</p>
+</div>
+</div>
+</section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_30_13.png?v=1789098497&amp;width=1600"" alt=""Bethlehem Star Nativity Wall Light details"" loading=""lazy""></div>
+<!-- =====================================================      DAY / NIGHT ===================================================== -->
+<section class=""bsf-daynight"">
+<p class=""bsf-kicker"">One Decoration • Two Beautiful Looks</p>
+<h2 class=""bsf-h2"">Beautiful by Day. Magical by Night.</h2>
+<p class=""bsf-text"">During the day, the sculptural star, hanging stars, Nativity silhouettes and greenery create graceful wall décor. After sunset, warm illumination completely transforms the display.</p>
+</section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_25_10.png?v=1789098504&amp;width=1600"" alt=""Bethlehem Star daytime nighttime comparison"" loading=""lazy""></div>
+<!-- =====================================================      PLACEMENT ===================================================== -->
+<section class=""bsf-section"">
+<p class=""bsf-kicker"">Decorate the Space You're Not Using</p>
+<h2 class=""bsf-h2"">Big Christmas Impact Without Taking Up Your Table</h2>
+<p class=""bsf-text"">Its tall vertical format turns narrow wall space into part of your Christmas decorating story — without adding more clutter to tables, shelves or mantels.</p>
+<div class=""bsf-points"">
+<div class=""bsf-point"">
+<div class=""bsf-check"">✓</div>
+<div>
+<strong>Front Entry</strong> <span> Create a warm and meaningful first impression for guests. </span>
+</div>
+</div>
+<div class=""bsf-point"">
+<div class=""bsf-check"">✓</div>
+<div>
+<strong>Living Room</strong> <span> Build a glowing focal point near the Christmas tree or fireplace. </span>
+</div>
+</div>
+<div class=""bsf-point"">
+<div class=""bsf-check"">✓</div>
+<div>
+<strong>Staircase Wall</strong> <span> Fill tall, narrow architectural space with Christmas light. </span>
+</div>
+</div>
+<div class=""bsf-point"">
+<div class=""bsf-check"">✓</div>
+<div>
+<strong>Protected Porch Area</strong> <span> Add a glowing welcome in a suitable sheltered display area. </span>
+</div>
+</div>
+</div>
+</section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_27_46.png?v=1789098521&amp;width=1600"" alt=""Bethlehem Star different display locations"" loading=""lazy""></div>
+<!-- =====================================================      HOME EMOTION ===================================================== -->
+<section class=""bsf-section alt"">
+<p class=""bsf-kicker"">A Warmer Kind of Christmas Welcome</p>
+<h2 class=""bsf-h2"">Let the Meaning of Christmas Be Seen Before a Word Is Spoken</h2>
+<p class=""bsf-text"">The Bethlehem Star, warm glow and Holy Family scene create a display that feels festive without becoming overly flashy — beautiful Christmas décor with a reason behind it.</p>
+<div class=""bsf-quote"">“Let His light fill your home, your heart and your Christmas.”</div>
+</section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_43_29.png?v=1789098550&amp;width=1600"" alt=""Bethlehem Star faith Christmas home decor"" loading=""lazy""></div>
+<!-- =====================================================      TRADITION / FAITH ===================================================== -->
+<section class=""bsf-section dark"">
+<p class=""bsf-kicker"" style=""color: #e3bd74;"">A Tradition Worth Bringing Back Every Year</p>
+<h2 class=""bsf-h2"">Not Just Something You Hang — Something You Feel</h2>
+<p class=""bsf-text"">Some Christmas decorations simply fill an empty wall. Others become part of the memories — the light beside the tree, quiet December evenings, family gathered together, and the decoration everyone remembers seeing year after year.</p>
+<div class=""bsf-faith-icons"">
+<div class=""bsf-faith-item"">
+<div class=""icon"">✝️</div>
+<strong>Faith</strong> <span>A reminder of the reason for the season</span>
+</div>
+<div class=""bsf-faith-item"">
+<div class=""icon"">❤️</div>
+<strong>Family</strong> <span>Made for meaningful Christmas moments</span>
+</div>
+<div class=""bsf-faith-item"">
+<div class=""icon"">✨</div>
+<strong>Light</strong> <span>A warm glow throughout the holidays</span>
+</div>
+</div>
+</section>
+<!-- =====================================================      GIFT ===================================================== -->
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_32_22.png?v=1789098556&amp;width=1600"" alt=""Bethlehem Star meaningful Christmas gift"" loading=""lazy""></div>
+<section class=""bsf-gift"">
+<p class=""bsf-kicker"" style=""color: #e5bd72;"">For Someone Who Still Loves the Meaning of Christmas</p>
+<h2 class=""bsf-h2"">Give More Than Another Christmas Decoration</h2>
+<p class=""bsf-text"">For parents. Grandparents. Faith-filled friends. Christmas hosts. And the person who believes Christmas should still feel meaningful. Give them something they can bring out year after year.</p>
+<div class=""bsf-gift-tags"">
+<span>🎁 Parents</span> <span>❤️ Grandparents</span> <span>✝️ Faith-Inspired Gift</span> <span>🎄 Christmas Lovers</span> <span>🏡 New Home Gift</span>
+</div>
+<a class=""bsf-btn"" href=""#""> CHOOSE YOUR BETHLEHEM STAR ✨ <small>Scroll to the purchase options</small> </a></section>
+<div class=""bsf-img""><img src=""https://bestjas.com/cdn/shop/files/ChatGPT_Image_2026_9_10_22_53_13.png?v=1789098820&amp;width=1600"" alt=""Woman holding Bethlehem Star Christmas wall light"" loading=""lazy""></div>
+<!-- =====================================================      HOW TO PAY      Learned ending structure ===================================================== -->
+<section class=""bsf-howpay"">
+<p class=""bsf-kicker"">Simple &amp; Secure Checkout</p>
+<h2 class=""bsf-h2"">How To Pay</h2>
+<p class=""bsf-text"">We accept PayPal, debit cards and major credit cards. Complete your purchase securely in just a few simple steps.</p>
+<div class=""bsf-paysteps"">
+<div class=""bsf-paystep"">
+<div class=""bsf-paynum"">1</div>
+<strong>Add To Cart</strong> <span> Select your preferred option and add it to your cart. </span>
+</div>
+<div class=""bsf-paystep"">
+<div class=""bsf-paynum"">2</div>
+<strong>Proceed To Checkout</strong> <span> Enter your shipping information and choose your shipping method. </span>
+</div>
+<div class=""bsf-paystep"">
+<div class=""bsf-paynum"">3</div>
+<strong>Choose Your Payment Method</strong> <span> Pay securely using PayPal, debit card or credit card. </span>
+</div>
+</div>
+<div class=""bsf-card-note"">
+<strong>💳 Paying by Debit or Credit Card?</strong>
+<p>Enter your card number, expiration date and security code during secure checkout.</p>
+</div>
+<div class=""bsf-payment-guide""><img src=""https://cdn.webfastcdn.com/image/48dcd2838f2d7a4caf770b270a0bd2ae0fa7dfae.jpg"" alt=""How to pay with PayPal debit or credit card"" loading=""lazy""></div>
+</section>
+<!-- =====================================================      SHOPPING CONFIDENCE ===================================================== -->
+<section class=""bsf-confidence"">
+<p class=""bsf-kicker"">Shopping Confidence</p>
+<h2 class=""bsf-h2"">Secure Shopping &amp; Quality Commitment</h2>
+<p class=""bsf-text"">Shop with greater confidence. We work to make every order simple, secure and supported from checkout through delivery.</p>
+<div class=""bsf-confidence-box"">
+<div class=""bsf-confidence-main-icon"">🛡️</div>
+<h3 class=""bsf-h3"">Buy With Greater Peace of Mind</h3>
+<p class=""bsf-small"" style=""max-width: 630px; margin: 0 auto;"">Secure checkout, customer support and return support help create a more dependable shopping experience.</p>
+<div class=""bsf-confidence-grid"">
+<div class=""bsf-confidence-item"">
+<div class=""icon"">🔒</div>
+<strong>Secure Checkout</strong> <span>Protected payment processing</span>
+</div>
+<div class=""bsf-confidence-item"">
+<div class=""icon"">↩️</div>
+<strong>90-Day Return Support</strong> <span>Extra peace of mind</span>
+</div>
+<div class=""bsf-confidence-item"">
+<div class=""icon"">💬</div>
+<strong>Helpful Support</strong> <span>Questions? We're here to help</span>
+</div>
+</div>
+</div>
+</section>
+<!-- =====================================================      WORLDWIDE SHIPPING ===================================================== -->
+<section class=""bsf-shipping"">
+<p class=""bsf-kicker"" style=""color: #e3bd74;"">Delivered With Care</p>
+<h2 class=""bsf-h2"">🌎 Worldwide Shipping</h2>
+<p class=""bsf-text"">Shipping is calculated at checkout. Worldwide shipping options are available to supported destinations.</p>
+<div class=""bsf-shipping-grid"">
+<div class=""bsf-shipping-item"">
+<div class=""icon"">🌎</div>
+<strong>Worldwide Shipping</strong> <span>Available to supported destinations</span>
+</div>
+<div class=""bsf-shipping-item"">
+<div class=""icon"">✈️</div>
+<strong>Free Shipping $49.98+</strong> <span>On qualifying orders</span>
+</div>
+<div class=""bsf-shipping-item"">
+<div class=""icon"">📦</div>
+<strong>Order Tracking</strong> <span>Tracking details provided when available</span>
+</div>
+</div>
+</section>
+<!-- =====================================================      WHY SHOP WITH US ===================================================== -->
+<section class=""bsf-why"">
+<p class=""bsf-kicker"">Why BestJas?</p>
+<h2 class=""bsf-h2"">Why Shop With Us?</h2>
+<p class=""bsf-text"">We work to make every order simple, dependable and enjoyable.</p>
+<div class=""bsf-whygrid"">
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">✓</div>
+<div>
+<strong>Quality Control</strong> <span> Our quality-control process helps us maintain consistent product standards. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">💰</div>
+<div>
+<strong>Competitive Pricing</strong> <span> We work to provide products at fair and competitive prices. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">💬</div>
+<div>
+<strong>Helpful Customer Service</strong> <span> Our support team is available to assist with questions about your order. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">✨</div>
+<div>
+<strong>Carefully Selected Products</strong> <span> We choose products with visual appeal and customer experience in mind. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">❤️</div>
+<div>
+<strong>Customer Feedback</strong> <span> Customer experiences help us continue improving our products and service. </span>
+</div>
+</div>
+<div class=""bsf-whyitem"">
+<div class=""bsf-whyicon"">🎄</div>
+<div>
+<strong>Memorable Home Décor</strong> <span> We look for pieces that feel special rather than ordinary. </span>
+</div>
+</div>
+</div>
+</section>
+<!-- =====================================================      OUR GUARANTEE ===================================================== -->
+<section class=""bsf-guarantee"">
+<p class=""bsf-kicker"">Our Promise</p>
+<h2 class=""bsf-h2"">Our Guarantee</h2>
+<p class=""bsf-text"">Your shopping experience matters to us. Here is how we help protect your order.</p>
+<div class=""bsf-guarantee-grid"">
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">🌎</div>
+<strong>Worldwide Shipping</strong> <span> Shipping options available at checkout. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">↩️</div>
+<strong>90-Day Return Support</strong> <span> Review current terms for eligibility. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">💬</div>
+<strong>Customer Support</strong> <span> Assistance for order and product questions. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">🔒</div>
+<strong>Safe &amp; Secure Checkout</strong> <span> SSL encryption helps protect your information. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">🛡️</div>
+<strong>Risk-Free Shopping</strong> <span> Contact support if you have an eligible issue. </span>
+</div>
+<div class=""bsf-guarantee-item"">
+<div class=""icon"">📦</div>
+<strong>Order Tracking</strong> <span> Tracking details provided when available. </span>
+</div>
+</div>
+</section>
+<!-- =====================================================      SECURE SHOPPING ===================================================== -->
+<div class=""bsf-secure"">
+<div class=""bsf-secure-icon"">🔐</div>
+<h3>Secure Shopping Guarantee</h3>
+<p>Your personal and payment information is processed through secure checkout methods. Shop with greater confidence knowing your order is supported before and after purchase.</p>
+<div class=""bsf-secure-mini"">
+<span>🔒 Secure Checkout</span> <span>↩️ 90-Day Return Support</span> <span>🌎 Worldwide Shipping</span> <span>📦 Order Tracking</span> <span>💬 Customer Support</span>
+</div>
+</div>
+<!-- =====================================================      FINAL CTA ===================================================== -->
+<section class=""bsf-finalcta"">
+<p> </p>
+</section>
+</div>",,,,,TRUE,Active,G09020260916LNWD-1PC,,Style,BUY 1,,,,,,,,29.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/2b/2b730a575a220f30e37c2aa8aabfa798.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/2b/2b730a575a220f30e37c2aa8aabfa798.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,bethlehem-star,,,,,,,,G09020260916LNWD-2PC,,,BUY 1 GET 1 FREE,,,,,,,,35.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/2b/2b730a575a220f30e37c2aa8aabfa798.webp,,,,,,,,,,,,,,,,,,,,,
+,bethlehem-star,,,,,,,,G09020260916LNWD-4PC,,,BUY 2 GET 2 FREE,,,,,,,,59.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/2b/2b730a575a220f30e37c2aa8aabfa798.webp,,,,,,,,,,,,,,,,,,,,,
+,bethlehem-star,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/b5/b5f7db540e729f41365bf8223d8f31dd.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,bethlehem-star,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/0a/0abf70be48a06797ef59de60c7ddaabf.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,bethlehem-star,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/66/660a119de4e299ba8579b14c1d0b497b.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,bethlehem-star,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/43/434c2b28a0fde927a7804ef4099ed826.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,bethlehem-star,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a7/a7c5cce61a8a3394ce032905fb1ff456.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,bethlehem-star,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/34/3431bdf0048c59c7c2598c876937e21e.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+HOLIDAY SALE 50% OFF 🎄 24 Days of Highland Cow Magic Advent Calendar,highland-cow-calendar,"<h1 style=""text-align: center;"">The Cutest Christmas Countdown</h1>
+<p><img src=""https://cdn.shopify.com/s/files/1/0981/7499/2675/files/0824_1_x1_0ccada00-fb78-479d-ab7e-3383eea434b7.gif?v=1787567952"" alt=""""></p>
+<h2>Tiny Details. Big Christmas Charm.</h2>
+<p>Each Highland Cow figure is crafted with charming festive details, smooth finishes, and its own unique personality. Cute enough to collect, display, and bring a little Christmas magic to any shelf, desk, or holiday setup.</p>
+<p><img src=""https://cdn.shopify.com/s/files/1/0981/7499/2675/files/download-2026-08-24T170247.099.png?v=1787566672"" alt=""""></p>
+<div class=""relative z-[1]"">
+<div class=""mt4SwW_editor [--wb-text-primary:var(--text-primary)] [--wb-text-secondary:var(--text-secondary)] [--wb-text-tertiary:var(--text-tertiary)] [--wb-surface-primary:var(--bg-primary)] [--wb-surface-secondary:var(--bg-tertiary)] [--wb-border:rgb(0_0_0/7%)] [--wb-border-hover:rgb(0_0_0/7%)] [--wb-divider:var(--border-light)] [--wb-focus:var(--border-strong)] [--wb-control-border:var(--interactive-border-focus)] [--wb-entity-accent:var(--theme-entity-accent)] [--wb-accent:var(--interactive-label-accent-default)] [--wb-on-accent:var(--bg-primary)] [--wb-interactive-background:var(--interactive-bg-accent-default)] [--wb-selection:var(--theme-user-selection-bg,var(--selection))] [--wb-radius-sm:var(--radius-sm)] [--wb-shadow-lg:var(--shadow-lg)] [--wb-font-sans:var(--font-sans)] [--wb-font-mono:var(--font-mono)] [--wb-shimmer-dark-contrast:var(--gray-550)] [--wb-shimmer-dark-secondary:var(--text-tertiary)] [--wb-radius:24px] [--wb-shadow:0_4px_80px_rgb(0_0_0/2%)] [contain:none] writing-block-editor markdown-new-styling relative flow-root"">
+<div class=""outline-none data-[writing-block-fullscreen-editor]:min-h-[75vh] ProseMirror markdown prose dark:prose-invert w-full min-h-6 break-words focus:outline-none"" dir=""auto"" translate=""no"">
+<h2><strong><span>A Gift They’ll Treasure Every Year</span></strong></h2>
+<p><span>Turn the Christmas countdown into a family tradition with 24 adorable Highland Cow surprises. Unbox a new collectible each day, then keep and display them long after the holidays are over.</span></p>
+<h2><span><img src=""https://cdn.shopify.com/s/files/1/0981/7499/2675/files/download-2026-08-24T170536.663.png?v=1787566672"" alt=""""></span></h2>
+<h2><span>Gift-Ready Christmas Magic</span></h2>
+<p><span>Presented in a premium 24-door keepsake box, this Highland Cow Advent Calendar is made to feel special from the moment it’s opened—perfect for gifting, displaying, and enjoying all season long.</span></p>
+<p><span><img src=""https://cdn.shopify.com/s/files/1/0981/7499/2675/files/download-2026-08-24T171208.674.png?v=1787566671"" alt=""""></span></p>
+<h2><span>Specification </span></h2>
+<ul>
+<li>
+<strong>Countdown:</strong><span> </span>24 Days</li>
+<li>
+<strong>Total Figures:</strong><span> </span>24 collectible Highland Cow characters</li>
+<li>
+<strong>Calendar Design:</strong><span> </span>24 individually numbered compartments</li>
+<li>
+<strong>Theme:</strong><span> </span>Highland Cow / Farmhouse / Christmas</li>
+<li>
+<strong>Recommended Use:</strong><span> </span>Advent countdown, collecting, gifting and holiday decorating</li>
+<li>
+<strong>Set Includes:</strong><span> </span>1 Advent Calendar + 24 Highland Cow Surprises</li>
+<li> <strong>Box dimensions:</strong><span> </span>18 x 4 x 26 cm; includes 24 flat ornaments (3.5 cm each).</li>
+</ul>
+<p><img src=""https://cdn.shopify.com/s/files/1/0981/7499/2675/files/download_-_2026-08-25T101633.270.png?v=1787627950"" alt=""""></p>
+</div>
+</div>
+</div>",,,,,TRUE,Active,DRND05200221,,Title,Default Title,,,,,,,,39.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/91/91357d89c7e6242a77e55d0d930284d8.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/91/91357d89c7e6242a77e55d0d930284d8.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,highland-cow-calendar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/df/dfbcaadaad396f8359cf0fa8bcc87b5d.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,highland-cow-calendar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/74/74ef0dde6271a6132136b7d23f5e7f35.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,highland-cow-calendar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/e2/e2edb78541d6792d70703a9ea704e810.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,highland-cow-calendar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/c2/c292b5b798e89be13ea665afc94e34e2.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,highland-cow-calendar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d7/d7a0eb72bc0539c955669adcb7304902.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,highland-cow-calendar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/79/79bf3c339c8ac3b3e67f8ac0a674e5d7.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,highland-cow-calendar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/7a/7a0ad7c5c775e5f4a4ed0284c22753b7.webp,8,,,,,,,,,,,,,,,,,,,,,,,
+❄️ 24PCS LED Snowflake Wall Lights,❄️-12pcs-led-snowflake-wall-lights,<p></p>,,,,,TRUE,Active,G09020260910SWLL-BB24-1PC,,Style,Blue & White Mix,,Color,24 PCS🔥,,,,,36.98,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/95/953285b540b6157024642bbc1cf2376e.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/99/99ad39aef03c87c936bae01073d2a14e.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,❄️-12pcs-led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/95/9519c687fb50d937a32844a360c2565b.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-12pcs-led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/1a/1aa451d7d498f36f648ed53c0fc25976.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-12pcs-led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/ce/cea706c7bf9b020c8c349b4af75fa7cd.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-12pcs-led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a2/a29c055670e42643d837713bc87104f4.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-12pcs-led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/9e/9ecc8dfb7e5c20ad1c0f04853cd9260c.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-12pcs-led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/87/87239b099c2ad3a7e9e687e813e14f55.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-12pcs-led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/5f/5f644cbfc1209fe1060acade8f6dfa61.webp,8,,,,,,,,,,,,,,,,,,,,,,,
+❄️ 12PCS LED Snowflake Wall Lights – Peel & Stick Winter Wonderland Christmas Decor🎄,led-snowflake-wall-lights,<p></p>,,,,,TRUE,Active,G09020260910SWLL-BB12-1PC,,Style,Blue & White Mix,,Color,12 PCS,,,,,26.64,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/95/953285b540b6157024642bbc1cf2376e.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/99/99ad39aef03c87c936bae01073d2a14e.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,G09020260910SWLL-BB24-1PC,,,Blue & White Mix,,,24 PCS🔥,,,,,36.98,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/99/99ad39aef03c87c936bae01073d2a14e.webp,,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,G09020260910SWLL-BB36-1PC,,,Blue & White Mix,,,36 PCS🔥,,,,,44.92,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/99/99ad39aef03c87c936bae01073d2a14e.webp,,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/95/9519c687fb50d937a32844a360c2565b.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/1a/1aa451d7d498f36f648ed53c0fc25976.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/ce/cea706c7bf9b020c8c349b4af75fa7cd.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a2/a29c055670e42643d837713bc87104f4.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/9e/9ecc8dfb7e5c20ad1c0f04853cd9260c.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/87/87239b099c2ad3a7e9e687e813e14f55.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,led-snowflake-wall-lights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/5f/5f644cbfc1209fe1060acade8f6dfa61.webp,8,,,,,,,,,,,,,,,,,,,,,,,
+📦𝗦𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻,shipping-protection,"<h1>Shipping Protection &amp; Tipping Policy</h1>
+<p>At Budevia, we strive to provide the best possible shopping experience. To give our customers more control over their orders, we offer optional add-on services at checkout.</p>
+<h2>1. Completely Voluntary Services</h2>
+<p>Please note that <strong>Shipping Protection</strong> and <strong>Tipping</strong> are 100% voluntary. These are not required fees and are only added to your order if you manually select them.</p>
+<ul>
+<li>
+<strong>Shipping Protection:</strong> An optional service to protect your package against loss, damage, or theft during transit.</li>
+<li>
+<strong>Tipping:</strong> An optional way to show appreciation for our fulfillment and customer service teams.</li>
+</ul>
+<h2>2. Shipping Protection Details</h2>
+<p>If you choose to add Shipping Protection to your order, you are covered for a variety of in-transit issues. For the full list of coverage and exclusions, please visit our detailed policy page here:</p>
+<p><a rel=""noopener"" class=""decorated-link"" href=""https://Budevia.com/products/shipping-protection"">https://Budevia.com/products/shipping-protection</a></p>
+<h2>3. Change of Mind &amp; Refund Policy</h2>
+<p>We want you to be completely satisfied with your purchase. If you added <strong>Shipping Protection</strong> or a <strong>Tip</strong> to your order and later change your mind, we are happy to provide a full refund for those specific amounts—no questions asked.</p>
+<p>We will process your refund request promptly, even if your order has already been shipped. If you simply made a mistake during checkout, you are eligible for a full refund of these voluntary fees.</p>
+<h2>4. How to Contact Us</h2>
+<p>If you would like to request a refund for these services or have any questions, please reach out to us through any of the following channels found on our <strong>Contact Us</strong> page:</p>
+<ul>
+<li>
+<strong>Text/SMS or Call:</strong> +1 (863) 592-2982</li>
+<li>
+<strong>Email:</strong> <a class=""decorated-link"" rel=""noopener"" href=""mailto:support@Budevia.com"">support@Budevia.com</a>
+</li>
+</ul>
+<p>Our customer support team is available to assist you promptly and help ensure your shopping experience is worry-free.</p>",,,,,TRUE,Active,shipping-protection-01,,Title,Default Title,,,,,,,,4.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d6/d66b7c7ee3b3a536035393b6298350f2.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d6/d66b7c7ee3b3a536035393b6298350f2.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+Plug-&-Play HD Christmas Projector,plug-play-hd-christmas-projector,<p></p>,,,,,TRUE,Active,C007260807SDJ-SANPIAN-2PCS,,Option,🎄 Christmas 3 Scenes,,,,,,,,19.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/94/94bb1cc7c3b0fdf794f798322ea910bf.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/0e/0e552b52648c2a5d06301d05f04d3b3e.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,C007260807SDJ-LIUPIAN-2PCS,,,🎄 Christmas 6 Scenes,,,,,,,,23.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/7e/7ecf32cfbfe6c160a4f64d87bf2a6f10.webp,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,C007260807SDJ-SHIPIAN-2PCS,,,🎄 Christmas 10 Scenes,,,,,,,,25.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/e3/e3c7a9aa1998edde40d5073fd2c8ef4e.webp,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,C007260807WSJ-SANPIAN-2PCS,,,🎃 Halloween Edition 3 Scenes,,,,,,,,19.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/23/23cb32a8dc407ded9e763b7417a1f933.webp,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,C007260807WSJ-LIUPIAN-2PCS,,,🎃 Halloween Edition 6 Scenes,,,,,,,,23.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/86/8631ca5ea372d1537575c14b748765ee.webp,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/e5/e54c740e9d0b9f8d3ed43db8d67f19c7.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/38/3870e661cf1a28c51d398f6067e45c4d.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/68/6841dff12ab50cffaf4aa5c375349f4c.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/97/97c4ee271edc496417984b9cd82f43cf.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/47/47ce8fadb555a3fc7a870c492fbc2f5f.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/f4/f4e7fd786542ee66875277835893bd33.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,plug-play-hd-christmas-projector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/96/96e9fac596a37022dcb03de45e67302e.webp,8,,,,,,,,,,,,,,,,,,,,,,,
+❄️ Snowman Magic Fountain,❄️-snowman-magic-fountain,"<style>   /* =========================================================      Snowman Magic Fountain Christmas Landing Page      Shopify-safe / responsive / isolated   ========================================================= */    .smf26-page,   .smf26-page *,   .smf26-page *::before,   .smf26-page *::after {     box-sizing: border-box;   }    .smf26-page {     --smf-night: #07110f;     --smf-night2: #0e2923;     --smf-green: #164c3d;     --smf-red: #8d2927;     --smf-gold: #d9a13a;     --smf-gold-light: #f8d982;     --smf-cream: #fffaf0;     --smf-snow: #f5f8fa;     --smf-ice: #edf6f8;     --smf-white: #ffffff;     --smf-text: #25302e;     --smf-muted: #687472;      position: relative;     z-index: 0;      display: block;     clear: both;     isolation: isolate;      width: 100%;     max-width: 1180px;     min-width: 0;      margin: 30px auto 0;     padding: 0;      overflow: hidden;      color: var(--smf-text);     background: var(--smf-white);      font-family: Arial, Helvetica, sans-serif;     line-height: 1.65;      container-type: inline-size;     container-name: smf26;   }    .smf26-page img {     display: block;     width: 100% !important;     max-width: 100% !important;     height: auto !important;      margin: 0 !important;     padding: 0 !important;      border: 0;   }    .smf26-page h1,   .smf26-page h2,   .smf26-page h3,   .smf26-page p,   .smf26-page ul {     margin-top: 0;   }    .smf26-page h1,   .smf26-page h2,   .smf26-page h3 {     line-height: 1.12;   }    .smf26-page a {     text-decoration: none;   }    .smf26-section {     position: relative;      display: block;     clear: both;      width: 100%;     padding: 52px 20px;   }    .smf26-center {     text-align: center;   }    /* =========================      COMMON TYPOGRAPHY   ========================= */    .smf26-kicker {     display: inline-flex;      margin-bottom: 14px;     padding: 7px 15px;      align-items: center;     justify-content: center;      border: 1px solid rgba(217, 161, 58, .55);     border-radius: 999px;      color: #8c6018;     background: rgba(248, 217, 130, .15);      font-size: 12px;     font-weight: 900;     line-height: 1.2;      letter-spacing: 1.2px;     text-transform: uppercase;   }    .smf26-title {     max-width: 820px;      margin-right: auto;     margin-bottom: 16px;     margin-left: auto;      color: #14251f;      font-family: Georgia, 'Times New Roman', serif;      font-size: clamp(29px, 5vw, 44px);     font-weight: 700;      letter-spacing: -.7px;     overflow-wrap: break-word;   }    .smf26-subtitle {     max-width: 720px;      margin-right: auto;     margin-bottom: 28px;     margin-left: auto;      color: var(--smf-muted);      font-size: 17px;     line-height: 1.75;   }    .smf26-button {     display: inline-flex;      width: auto;     min-height: 56px;      padding: 16px 29px;      align-items: center;     justify-content: center;      border: 1px solid #efc760;     border-radius: 9px;      color: #251705 !important;      background:       linear-gradient(         135deg,         #bd8427 0%,         #f6d779 48%,         #b7781d 100%       );      box-shadow:       0 13px 30px rgba(124, 77, 12, .25),       inset 0 1px 0 rgba(255,255,255,.6);      font-size: 16px;     font-weight: 900;     line-height: 1.25;      text-align: center;      transition:       transform .2s ease,       box-shadow .2s ease;   }    .smf26-button:hover {     color: #251705 !important;      transform: translateY(-2px);      box-shadow:       0 17px 36px rgba(124, 77, 12, .31),       inset 0 1px 0 rgba(255,255,255,.7);   }    /* =========================      HERO   ========================= */    .smf26-hero {     position: relative;      display: block;     clear: both;      width: 100%;     padding: 62px 20px 38px;      overflow: hidden;      color: #ffffff;     text-align: center;      background:       radial-gradient(         circle at 50% 15%,         rgba(217,161,58,.18),         transparent 33%       ),       radial-gradient(         circle at 12% 12%,         rgba(61,130,110,.2),         transparent 27%       ),       linear-gradient(         145deg,         #050908 0%,         #0d241e 58%,         #06100e 100%       );   }    .smf26-hero-content {     position: relative;     z-index: 1;      width: 100%;     max-width: 900px;      margin: 0 auto;   }    .smf26-hero .smf26-kicker {     color: var(--smf-gold-light);      border-color: rgba(248,217,130,.45);      background: rgba(217,161,58,.08);   }    .smf26-main-title {     max-width: 900px;      margin: 0 auto 19px;      color: #ffffff !important;      font-family: Georgia, 'Times New Roman', serif;      font-size: clamp(39px, 7vw, 68px);     font-weight: 700;     line-height: 1.04 !important;      letter-spacing: -1.5px;      overflow-wrap: break-word;   }    .smf26-main-title span {     color: #f2c55c;      text-shadow:       0 0 24px rgba(231,174,61,.28);   }    .smf26-hero-copy {     max-width: 720px;      margin: 0 auto 27px;      color: #e6eee9;      font-size: 18px;     line-height: 1.75;   }    .smf26-hero-note {     margin: 15px 0 0;      color: #a9beb7;      font-size: 13px;   }    .smf26-hero-image {     position: relative;     z-index: 1;      display: block;      width: 100%;     max-width: 760px;      margin: 38px auto 0;     padding: 8px;      overflow: hidden;      border: 1px solid rgba(238,196,98,.45);     border-radius: 17px;      background: #050806;      box-shadow:       0 27px 58px rgba(0,0,0,.5),       0 0 48px rgba(218,162,58,.08);   }    .smf26-hero-image img {     border-radius: 11px;      aspect-ratio: 1 / 1;     object-fit: cover;   }    /* =========================      QUICK BENEFITS   ========================= */    .smf26-facts-wrap {     position: relative;      display: block;     clear: both;      width: 100%;      padding: 36px 15px 43px;      background: var(--smf-cream);   }    .smf26-facts {     display: grid;      grid-template-columns:       repeat(2, minmax(0, 1fr));      width: 100%;     max-width: 940px;      margin: 0 auto;      overflow: hidden;      border: 1px solid #e5d8bb;     border-radius: 14px;      background: #ffffff;      box-shadow:       0 13px 31px rgba(63, 48, 17, .08);   }    .smf26-fact {     min-width: 0;      padding: 23px 8px;      border-right: 1px solid #eee4d1;     border-bottom: 1px solid #eee4d1;      text-align: center;   }    .smf26-fact:nth-child(2n) {     border-right: 0;   }    .smf26-fact:nth-last-child(-n + 2) {     border-bottom: 0;   }    .smf26-fact strong {     display: block;      color: var(--smf-green);      font-family: Georgia, 'Times New Roman', serif;      font-size: 25px;     line-height: 1.1;   }    .smf26-fact span {     display: block;      margin-top: 8px;      color: #82601f;      font-size: 12px;     font-weight: 900;     line-height: 1.4;      letter-spacing: .4px;     text-transform: uppercase;   }    /* =========================      EMOTIONAL INTRO   ========================= */    .smf26-emotion {     background: #ffffff;   }    .smf26-quote {     max-width: 760px;      margin: 31px auto 0;     padding: 29px 24px;      border-top: 1px solid var(--smf-gold);     border-bottom: 1px solid var(--smf-gold);      color: var(--smf-green);      background:       linear-gradient(         90deg,         rgba(217,161,58,0),         rgba(217,161,58,.08),         rgba(217,161,58,0)       );      font-family: Georgia, 'Times New Roman', serif;      font-size: 22px;     font-style: italic;     line-height: 1.55;   }    .smf26-quote small {     display: block;      margin-top: 13px;      color: var(--smf-muted);      font-family: Arial, Helvetica, sans-serif;      font-size: 14px;     font-style: normal;     line-height: 1.65;   }    /* =========================      SPLIT LAYOUT   ========================= */    .smf26-split {     display: grid;      grid-template-columns:       minmax(0, 1fr);      gap: 31px;      align-items: center;   }    .smf26-split > * {     min-width: 0;   }    .smf26-copy {     width: 100%;     min-width: 0;   }    .smf26-copy p {     margin-bottom: 18px;      color: var(--smf-muted);      font-size: 16px;     line-height: 1.75;   }    .smf26-image-card {     display: block;      width: 100%;     max-width: 560px;      margin: 0 auto;     padding: 8px;      overflow: hidden;      border: 1px solid #d8c28e;     border-radius: 16px;      background: #101410;      box-shadow:       0 20px 45px rgba(33, 27, 12, .19);   }    .smf26-image-card img {     border-radius: 10px;      aspect-ratio: 1 / 1;     object-fit: cover;   }    .smf26-checks {     margin: 22px 0 0;     padding: 0;      list-style: none;   }    .smf26-checks li {     position: relative;      margin-bottom: 14px;     padding-left: 35px;      color: #27312e;      font-size: 15px;     font-weight: 700;     line-height: 1.55;   }    .smf26-checks li::before {     position: absolute;      top: 1px;     left: 0;      display: flex;      width: 24px;     height: 24px;      align-items: center;     justify-content: center;      border: 1px solid var(--smf-gold);     border-radius: 50%;      color: #8d641f;     background: #fff8e8;      content: '✦';      font-size: 10px;   }    /* =========================      DARK CHRISTMAS SECTION   ========================= */    .smf26-dark {     color: #ffffff;      background:       radial-gradient(         circle at 89% 12%,         rgba(217,161,58,.15),         transparent 30%       ),       radial-gradient(         circle at 12% 80%,         rgba(41,103,86,.21),         transparent 28%       ),       linear-gradient(         145deg,         #050907,         #102b24       );   }    .smf26-dark .smf26-title {     color: #ffffff;   }    .smf26-dark .smf26-copy p {     color: #cedbd6;   }    .smf26-dark .smf26-checks li {     color: #f1f5f3;   }    .smf26-dark .smf26-checks li::before {     color: var(--smf-gold-light);      border-color: #c89435;      background: rgba(217,161,58,.08);   }    /* =========================      BENEFIT CARDS   ========================= */    .smf26-benefits {     background: var(--smf-ice);   }    .smf26-card-grid {     display: grid;      grid-template-columns:       minmax(0, 1fr);      gap: 18px;      margin-top: 32px;   }    .smf26-card-grid > * {     min-width: 0;   }    .smf26-card {     padding: 27px 21px;      border: 1px solid #d8e6e3;     border-radius: 15px;      background: #ffffff;      box-shadow:       0 11px 28px rgba(18, 67, 55, .06);      text-align: left;   }    .smf26-icon {     display: flex;      width: 54px;     height: 54px;      margin-bottom: 18px;      align-items: center;     justify-content: center;      border: 1px solid #d6ab50;     border-radius: 50%;      color: #92681f;      background: #fff8e8;      font-family: Georgia, 'Times New Roman', serif;      font-size: 22px;   }    .smf26-card h3 {     margin-bottom: 10px;      color: var(--smf-green);      font-family: Georgia, 'Times New Roman', serif;      font-size: 21px;   }    .smf26-card p {     margin-bottom: 0;      color: var(--smf-muted);      font-size: 15px;     line-height: 1.7;   }    /* =========================      SHOWCASE   ========================= */    .smf26-showcase {     background: #ffffff;   }    .smf26-showcase-frame {     display: block;      width: 100%;     max-width: 800px;      margin: 33px auto 0;     padding: 8px;      overflow: hidden;      border: 1px solid #d3b168;     border-radius: 16px;      background: #10130f;      box-shadow:       0 22px 48px rgba(44, 33, 11, .2);   }    .smf26-showcase-frame img {     border-radius: 10px;   }    /* =========================      DAY / NIGHT   ========================= */    .smf26-daynight {     background:       linear-gradient(         135deg,         #f7fafb,         #edf4f2       );   }    /* =========================      WARM FAMILY SECTION   ========================= */    .smf26-family {     color: #ffffff;      background:       radial-gradient(         circle at 15% 15%,         rgba(225,171,65,.19),         transparent 29%       ),       linear-gradient(         140deg,         #5d1d1b,         #7f2924       );   }    .smf26-family .smf26-title {     color: #ffffff;   }    .smf26-family .smf26-subtitle {     color: #f3ddda;   }    .smf26-tags {     display: flex;      flex-wrap: wrap;     justify-content: center;      gap: 10px;      max-width: 780px;      margin: 28px auto 0;   }    .smf26-tag {     padding: 10px 16px;      border: 1px solid rgba(248,217,130,.5);     border-radius: 999px;      color: #fbe5a8;      background: rgba(255,255,255,.07);      font-size: 13px;     font-weight: 800;   }    /* =========================      STEPS   ========================= */    .smf26-steps {     background: #ffffff;   }    .smf26-step-grid {     display: grid;      grid-template-columns:       minmax(0, 1fr);      gap: 18px;      margin-top: 32px;   }    .smf26-step {     padding: 28px 21px;      border: 1px solid #e1e6df;     border-radius: 15px;      background: #fafbf8;      text-align: center;   }    .smf26-step-number {     display: flex;      width: 51px;     height: 51px;      margin: 0 auto 17px;      align-items: center;     justify-content: center;      border-radius: 50%;      color: #ffffff;      background:       linear-gradient(         135deg,         #174c3d,         #2b725d       );      box-shadow:       0 8px 18px rgba(23,76,61,.19);      font-size: 21px;     font-weight: 900;   }    .smf26-step h3 {     margin-bottom: 9px;      color: var(--smf-green);      font-family: Georgia, 'Times New Roman', serif;      font-size: 19px;   }    .smf26-step p {     margin-bottom: 0;      color: var(--smf-muted);      font-size: 15px;     line-height: 1.65;   }    /* =========================      COMPARISON   ========================= */    .smf26-compare {     background: var(--smf-cream);   }    .smf26-compare-grid {     display: grid;      grid-template-columns:       minmax(0, 1fr);      gap: 18px;      width: 100%;     max-width: 850px;      margin: 31px auto 0;      text-align: left;   }    .smf26-compare-card {     min-width: 0;      padding: 27px 22px;      border-radius: 15px;   }    .smf26-compare-card.smf26-basic {     border: 1px solid #e3ddd0;      background: #f1eee8;   }    .smf26-compare-card.smf26-magic {     border: 2px solid var(--smf-gold);      background: #ffffff;      box-shadow:       0 15px 32px rgba(151,105,26,.13);   }    .smf26-compare-card h3 {     margin-bottom: 15px;      color: var(--smf-green);      font-family: Georgia, 'Times New Roman', serif;      font-size: 21px;   }    .smf26-compare-card ul {     margin: 0;     padding-left: 20px;      color: var(--smf-muted);   }    .smf26-compare-card li {     margin-bottom: 10px;      font-size: 15px;     line-height: 1.6;   }    /* =========================      FAQ   ========================= */    .smf26-faq {     background: #ffffff;   }    .smf26-faq-list {     display: block;      width: 100%;     max-width: 820px;      margin: 29px auto 0;      text-align: left;   }    .smf26-faq details {     display: block;      margin-bottom: 12px;      overflow: hidden;      border: 1px solid #dfe7e3;     border-radius: 13px;      background: #f8faf9;   }    .smf26-faq summary {     position: relative;      display: block;      padding: 18px 49px 18px 18px;      color: #18382f;      cursor: pointer;      font-size: 16px;     font-weight: 900;     line-height: 1.45;      list-style: none;   }    .smf26-faq summary::-webkit-details-marker {     display: none;   }    .smf26-faq summary::after {     position: absolute;      top: 50%;     right: 18px;      color: #b98124;      content: '+';      font-size: 25px;     line-height: 1;      transform: translateY(-50%);   }    .smf26-faq details[open] summary::after {     content: '−';   }    .smf26-faq-answer {     padding: 0 18px 18px;      color: var(--smf-muted);      font-size: 15px;     line-height: 1.7;   }    /* =========================      FINAL CTA   ========================= */    .smf26-final {     position: relative;      display: block;     clear: both;      width: 100%;      padding: 66px 20px;      color: #ffffff;     text-align: center;      background:       radial-gradient(         circle at 50% 0%,         rgba(220,164,56,.22),         transparent 40%       ),       linear-gradient(         145deg,         #050806,         #102a23       );   }    .smf26-final .smf26-title {     max-width: 780px;      color: #ffffff;   }    .smf26-final-copy {     max-width: 690px;      margin: 0 auto 27px;      color: #d8e2de;      font-size: 17px;     line-height: 1.75;   }    .smf26-final-note {     margin: 16px 0 0;      color: #a5b8b0;      font-size: 13px;   }    /* =========================      CONTAINER RESPONSIVE   ========================= */    @container smf26 (min-width: 700px) {      .smf26-section {       padding: 68px 42px;     }      .smf26-hero {       padding: 76px 42px 48px;     }      .smf26-facts-wrap {       padding: 43px 30px 48px;     }      .smf26-facts {       grid-template-columns:         repeat(4, minmax(0, 1fr));     }      .smf26-fact {       border-right: 1px solid #eee4d1;       border-bottom: 0;     }      .smf26-fact:nth-child(2) {       border-right: 1px solid #eee4d1;     }      .smf26-fact:last-child {       border-right: 0;     }      .smf26-split {       grid-template-columns:         repeat(2, minmax(0, 1fr));        gap: 48px;     }      .smf26-card-grid,     .smf26-step-grid {       grid-template-columns:         repeat(3, minmax(0, 1fr));        gap: 20px;     }      .smf26-compare-grid {       grid-template-columns:         repeat(2, minmax(0, 1fr));        gap: 20px;     }      .smf26-final {       padding: 78px 42px;     }   }    @container smf26 (min-width: 960px) {      .smf26-section {       padding: 79px 59px;     }      .smf26-hero {       padding: 87px 59px 54px;     }      .smf26-split {       gap: 61px;     }      .smf26-copy p {       font-size: 17px;     }      .smf26-final {       padding: 87px 59px;     }   }    @media screen and (max-width: 480px) {      .smf26-page {       margin-top: 20px;     }      .smf26-main-title {       font-size: 38px;     }      .smf26-title {       font-size: 30px;     }      .smf26-hero-copy,     .smf26-subtitle {       font-size: 16px;     }      .smf26-button {       width: 100%;       max-width: 420px;        padding-right: 17px;       padding-left: 17px;     }      .smf26-quote {       font-size: 19px;     }   } </style> <div class=""smf26-page""> <!-- =====================================        HERO   ====================================== --> <section class=""smf26-hero""> <div class=""smf26-hero-content""> <span class=""smf26-kicker""> A Little Christmas Magic for the Yard </span> <h1 class=""smf26-main-title"">Watch Christmas Magic <span>Flow Into the Night.</span> </h1> <p class=""smf26-hero-copy"">A cheerful snowman holds a glowing magic orb while streams of warm light, stars and illuminated snowflakes appear to flow toward the ground—turning an ordinary winter yard into a storybook Christmas scene.</p> <a class=""smf26-button"" href=""{{CTA_URL}}""> Bring Home the Christmas Magic → </a> <p class=""smf26-hero-note"">Solar powered • Flowing snowflake lights • Outdoor garden stake</p> </div> <div class=""smf26-hero-image""><img src=""https://cotitoc.com/cdn/shop/files/image-gen-1_6.png?v=1787644037&amp;width=1946"" alt=""Snowman Magic Fountain flowing snowflake Christmas garden light"" width=""1000"" height=""1000"" loading=""eager""></div> </section> <!-- =====================================        QUICK FACTS   ====================================== --> <section class=""smf26-facts-wrap""> <div class=""smf26-facts""> <div class=""smf26-fact""> <strong>Solar</strong> <span>Powered</span> </div> <div class=""smf26-fact""> <strong>Flowing</strong> <span>Snowflake Lights</span> </div> <div class=""smf26-fact""> <strong>Day + Night</strong> <span>Holiday Display</span> </div> <div class=""smf26-fact""> <strong>Easy</strong> <span>Garden Setup</span> </div> </div> </section> <!-- =====================================        EMOTIONAL HOOK   ====================================== --> <section class=""smf26-section smf26-emotion smf26-center""><span class=""smf26-kicker""> More Than Another Christmas Light </span> <h2 class=""smf26-title"">Create the Kind of Christmas Children Remember</h2> <p class=""smf26-subtitle"">The tree is glowing. The porch is decorated. Snow is on the ground. Then a smiling snowman begins to shine, and streams of golden snowflakes seem to pour from the magic orb in his hands.</p> <div class=""smf26-quote"">“Look—the snowman is making snowflakes!” <small> Sometimes the smallest holiday traditions become the memories families talk about for years. </small> </div> </section> <!-- =====================================        MAGIC FLOW EFFECT   ====================================== --> <section class=""smf26-section smf26-dark""> <div class=""smf26-split""> <div class=""smf26-image-card""><img src=""https://cotitoc.com/cdn/shop/files/image-gen-2_6.png?v=1787644037&amp;width=1946"" alt=""Warm flowing LED snowflake lights from the snowman magic orb"" width=""1000"" height=""1000"" loading=""lazy""></div> <div class=""smf26-copy""> <span class=""smf26-kicker""> Watch the Magic Flow </span> <h2 class=""smf26-title"">A Christmas Light That Feels Alive</h2> <p>Instead of simply glowing in one place, warm illuminated strands descend from the snowman's magic orb, surrounded by glowing stars and snowflakes.</p> <p>The flowing design creates movement and depth, helping the decoration feel like part of a magical winter scene rather than just another garden light.</p> <ul class=""smf26-checks""> <li>Warm golden holiday glow</li> <li>Flowing illuminated light strands</li> <li>Glowing snowflake and star details</li> <li>Bright magic orb centerpiece</li> <li>Eye-catching nighttime display</li> </ul> </div> </div> </section> <!-- =====================================        BENEFITS   ====================================== --> <section class=""smf26-section smf26-benefits smf26-center""><span class=""smf26-kicker""> Made for Holiday Wonder </span> <h2 class=""smf26-title"">One Decoration, So Much Christmas Atmosphere</h2> <p class=""smf26-subtitle"">Friendly by day and luminous after dark, the Snowman Magic Fountain adds warmth and movement wherever your holiday display needs something special.</p> <div class=""smf26-card-grid""> <article class=""smf26-card""> <div class=""smf26-icon"">❄</div> <h3>Flowing Snowflakes</h3> <p>Lighted snowflakes, stars and glowing strands create a whimsical fountain-like effect beneath the snowman.</p> </article> <article class=""smf26-card""> <div class=""smf26-icon"">✦</div> <h3>Warm Holiday Glow</h3> <p>Golden lighting adds a cozy, welcoming feel that pairs beautifully with porch lights, wreaths and Christmas trees.</p> </article> <article class=""smf26-card""> <div class=""smf26-icon"">☀</div> <h3>Solar Convenience</h3> <p>Charge it with daylight and enjoy your Christmas display without running extension cords across the yard.</p> </article> </div> </section> <!-- =====================================        DAY / NIGHT   ====================================== --> <section class=""smf26-section smf26-daynight smf26-center""><span class=""smf26-kicker""> Charming by Day. Magical by Night. </span> <h2 class=""smf26-title"">Beautiful Even Before the Lights Come On</h2> <p class=""smf26-subtitle"">During the day, the cheerful snowman, top hat and scarf add festive character to your winter garden. After sunset, the entire display transforms into a glowing Christmas scene.</p> <div class=""smf26-showcase-frame""><img src=""https://cotitoc.com/cdn/shop/files/image-gen-3_5.png?v=1787644037&amp;width=1946"" alt=""Snowman Christmas garden light during the day and illuminated at night"" width=""1000"" height=""1000"" loading=""lazy""></div> </section> <!-- =====================================        DETAILS   ====================================== --> <section class=""smf26-section""> <div class=""smf26-split""> <div class=""smf26-copy""> <span class=""smf26-kicker""> Holiday Details From Top to Bottom </span> <h2 class=""smf26-title"">Designed to Look Festive From Every Angle</h2> <p>The magic begins with the snowman's friendly expression and classic winter accessories, then continues through the glowing orb and cascading holiday lights below.</p> <ul class=""smf26-checks""> <li>Cheerful snowman character</li> <li>Festive top hat and winter scarf</li> <li>Illuminated magic orb</li> <li>Decorative glowing snowflakes</li> <li>Star-shaped light accents</li> <li>Flowing fountain-style light design</li> </ul> </div> <div class=""smf26-image-card""><img src=""https://cotitoc.com/cdn/shop/files/image-gen-4_5.png?v=1787644037&amp;width=1946"" alt=""Snowman Magic Fountain Christmas decoration design details"" width=""1000"" height=""1000"" loading=""lazy""></div> </div> </section> <!-- =====================================        SOLAR / SETUP   ====================================== --> <section class=""smf26-section smf26-dark""> <div class=""smf26-split""> <div class=""smf26-image-card""><img src=""https://cotitoc.com/cdn/shop/files/image-gen-5_5.png?v=1787644037&amp;width=1946"" alt=""Solar powered Snowman Magic Fountain garden light setup"" width=""1000"" height=""1000"" loading=""lazy""></div> <div class=""smf26-copy""> <span class=""smf26-kicker""> Solar Powered </span> <h2 class=""smf26-title"">Set It Out. Let Christmas Shine.</h2> <p>No complicated wiring is needed for the solar-powered setup shown. Place the decoration where it can receive daylight, then enjoy its warm holiday glow after dark.</p> <ul class=""smf26-checks""> <li>Solar-powered outdoor design</li> <li>Charges during daylight</li> <li>Designed to glow after dark</li> <li>No extension cords across the lawn</li> <li>Simple garden-stake placement</li> <li>Weather-resistant seasonal design</li> </ul> </div> </div> </section> <!-- =====================================        HOW IT WORKS   ====================================== --> <section class=""smf26-section smf26-steps smf26-center""><span class=""smf26-kicker""> Simple Christmas Setup </span> <h2 class=""smf26-title"">From Garden to Glowing in 3 Steps</h2> <div class=""smf26-step-grid""> <div class=""smf26-step""> <div class=""smf26-step-number"">1</div> <h3>Place It</h3> <p>Choose a festive spot in your garden, walkway or near the front porch.</p> </div> <div class=""smf26-step""> <div class=""smf26-step-number"">2</div> <h3>Charge by Day</h3> <p>Position the solar panel where it can receive good daylight exposure.</p> </div> <div class=""smf26-step""> <div class=""smf26-step-number"">3</div> <h3>Glow at Night</h3> <p>When evening arrives, enjoy the illuminated snowman, flowing lights and snowflakes.</p> </div> </div> </section> <!-- =====================================        FAMILY / LIFESTYLE   ====================================== --> <section class=""smf26-section smf26-family smf26-center""><span class=""smf26-kicker""> Create a Cozy Christmas Welcome </span> <h2 class=""smf26-title"">The Kind of Glow That Makes Home Feel Like Christmas</h2> <p class=""smf26-subtitle"">Place it near the front walk, beside the porch or among your other decorations and create a warm welcome for family, neighbors and holiday guests.</p> <div class=""smf26-tags""> <span class=""smf26-tag""> Front Yard </span> <span class=""smf26-tag""> Garden </span> <span class=""smf26-tag""> Walkway </span> <span class=""smf26-tag""> Porch Entrance </span> <span class=""smf26-tag""> Christmas Display </span> <span class=""smf26-tag""> Family Holiday Décor </span> </div> </section> <!-- =====================================        FAMILY IMAGE   ====================================== --> <section class=""smf26-section smf26-showcase smf26-center""><span class=""smf26-kicker""> Make the Moment Feel Special </span> <h2 class=""smf26-title"">Christmas Magic Starts Before You Walk Through the Door</h2> <p class=""smf26-subtitle"">A warm outdoor glow sets the mood before guests ever reach the porch, creating a festive welcome that feels inviting to children and adults alike.</p> <div class=""smf26-showcase-frame""><img src=""https://cotitoc.com/cdn/shop/files/image-gen-6_4.png?v=1787644037&amp;width=1946"" alt=""Family enjoying glowing Snowman Magic Fountain Christmas yard decoration"" width=""1000"" height=""1000"" loading=""lazy""></div> </section> <!-- =====================================        COMPARISON   ====================================== --> <section class=""smf26-section smf26-compare smf26-center""><span class=""smf26-kicker""> Ordinary Light vs. Christmas Magic </span> <h2 class=""smf26-title"">Give Your Yard a True Centerpiece</h2> <p class=""smf26-subtitle"">A simple stake light adds brightness. The Snowman Magic Fountain adds character, movement and a complete Christmas scene.</p> <div class=""smf26-compare-grid""> <div class=""smf26-compare-card smf26-basic""> <h3>Ordinary Garden Light</h3> <ul> <li>Simple static illumination</li> <li>Little holiday personality</li> <li>Limited visual movement</li> <li>Easy to blend into other decorations</li> <li>May require additional wiring</li> </ul> </div> <div class=""smf26-compare-card smf26-magic""> <h3>Snowman Magic Fountain</h3> <ul> <li>Flowing fountain-style lights</li> <li>Snowflakes and stars throughout the display</li> <li>Cheerful Christmas snowman centerpiece</li> <li>Beautiful by day and glowing after dark</li> <li>Solar-powered setup with no extension cord</li> </ul> </div> </div> </section> <!-- =====================================        FAQ   ====================================== --> <section class=""smf26-section smf26-faq smf26-center""><span class=""smf26-kicker""> Frequently Asked Questions </span> <h2 class=""smf26-title"">Before You Add the Magic</h2> <div class=""smf26-faq-list""> <details> <summary>Is the Snowman Magic Fountain solar powered?</summary> <div class=""smf26-faq-answer"">Yes. The product imagery presents it as a solar-powered garden decoration designed to charge during daylight and illuminate after dark.</div> </details> <details> <summary>Does it require an extension cord?</summary> <div class=""smf26-faq-answer"">The solar-powered setup shown does not require an extension cord, giving you more freedom when choosing where to place the decoration.</div> </details> <details> <summary>What does the lighting effect look like?</summary> <div class=""smf26-faq-answer"">Warm glowing strands appear to flow downward from the illuminated orb, with decorative snowflake and star lights positioned throughout the fountain-style display.</div> </details> <details> <summary>Does it still look decorative during the day?</summary> <div class=""smf26-faq-answer"">Yes. The snowman design, top hat, scarf and magic orb create a festive garden decoration in daylight, while the light effect becomes the focal point after dark.</div> </details> <details> <summary>Is it intended for outdoor Christmas decorating?</summary> <div class=""smf26-faq-answer"">The product is presented as a Christmas garden stake light for seasonal outdoor displays, including yards, gardens and walkway areas.</div> </details> <details> <summary>How should I position the solar panel?</summary> <div class=""smf26-faq-answer"">For best charging, place the solar panel in an area that receives good daylight and avoid locations that stay heavily shaded throughout the day.</div> </details> </div> </section> <!-- =====================================        FINAL CTA   ====================================== --> <section class=""smf26-final""><span class=""smf26-kicker""> Bring Home a Little Christmas Wonder </span> <h2 class=""smf26-title"">Let the Snowflakes Glow Every Night This Christmas</h2> <p class=""smf26-final-copy"">Turn the walk to your front door into part of the holiday experience with a cheerful snowman, a glowing magic orb and streams of warm snowflake light.</p> <a class=""smf26-button"" href=""{{CTA_URL}}""> Bring Home the Snowman Magic → </a> <p class=""smf26-final-note"">A warm finishing touch for your Christmas yard, garden or walkway.</p> </section> </div>",,,,,TRUE,Active,G09020260907SMFG-B-1PC,,Style,⛄ Snowman (Type B),,,,,,,,39.89,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/aa/aa42105611ebc6cdb9ff8decc4f1eecf.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/ab/abbdf368d9bdbe06ae1c765559d294cd.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,G09020260907SMFG-A-1PC,,,⛄ Snowman (Type A),,,,,,,,39.89,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/e8/e8f2f20199fd9bf13c8c681aa79adce2.webp,,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,G09020260907SMFG-C-1PC,,,🔔 Christmas Bell,,,,,,,,39.89,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/1f/1f629bf98ab5c4b699af66a2368487a9.webp,,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/51/51b270cbec51d0477180d618fad523e0.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/f3/f363485c89ad12d9313b878b40557559.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/50/50a2d531d9c70823db936ca2606a7f26.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/3b/3bc6618b46e1d85a20a7b2e7a70632fd.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/c8/c8053556faa0ff99fa37a6b6768100d1.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a8/a8bc228d5b05c2f8c1a904b6e1345352.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,❄️-snowman-magic-fountain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/ab/abbdf368d9bdbe06ae1c765559d294cd.webp,8,,,,,,,,,,,,,,,,,,,,,,,
+🎄Glowing Christmas Door Hanger,🎄glowing-christmas-door-hanger,,,,,,TRUE,Active,G09020260907GCDH-SW-1PC,,Style,⛄ Snowman,,Set,Buy 1,,,,,29.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/de/de8691bd2b81141f8df69abeb14eb54d.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d5/d576163325f59b781fd97d8246bac4b3.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,G09020260907GCDH-SW-2PC,,,⛄ Snowman,,,Buy 2 - Each $19.99,,,,,39.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d5/d576163325f59b781fd97d8246bac4b3.webp,,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,G09020260907GCDH-SW-4PC,,,⛄ Snowman,,,Buy 4 - Each $14.99,,,,,59.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d5/d576163325f59b781fd97d8246bac4b3.webp,,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/a0/a0ab4dadfecaad7377167e865a8bd98b.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/59/5986d18b13bc67d5d8ac24a48e1912bc.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d4/d45f7f6f40d8034cc0bd7e027880ca23.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/38/38f5fdb8dd3ceadb9baddf6e00c51bf2.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/7b/7b9130e812e19e053ad53c8c62e317ff.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/b5/b5717c434b24909d4127a9150c9b47dc.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,🎄glowing-christmas-door-hanger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/d5/d576163325f59b781fd97d8246bac4b3.webp,8,,,,,,,,,,,,,,,,,,,,,,,
+🎄✨ DIY Beaded Christmas Tree Kit – 🎅Create Your Own Sparkling Holiday Decoration,diy-tree,"<h2>✨ Create A Christmas Memory With Your Own Hands</h2> <p>Not just a decoration — it's a holiday experience you create yourself.</p> <p>String every bead, build your own sparkling Christmas tree, and enjoy the relaxing feeling of handmade crafting.</p> <p>Make something beautiful to display and remember. 🎄</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-01-process.gif?v=1787046177"" alt=""Sorting beads for the DIY beaded Christmas tree"" style=""display:block;margin:24px auto;max-width:240px;width:100%;height:auto;"">  <h2>🎄 From Simple Beads To A Beautiful Christmas Tree</h2> <p>What starts as a collection of colorful beads becomes a sparkling holiday decoration made by you.</p> <p>This DIY kit guides you through creating a detailed mini Christmas tree filled with beautiful bead combinations and festive charm.</p> <p>Enjoy the process, then proudly display your handmade creation.</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-02-tree.jpg?v=1787046180"" alt=""Make your own sparkling beaded Christmas tree"" style=""display:block;margin:24px auto;max-width:100%;width:100%;height:auto;"">  <h2>✨ A Relaxing Craft Experience For The Holiday Season</h2> <p>Slow down and enjoy a creative moment away from screens and busy schedules.</p> <p>Sorting beads, building layers, and watching your Christmas tree take shape creates a satisfying handmade experience.</p> <p>Perfect for anyone who enjoys crafts, creativity, and holiday projects.</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-03-crafting.jpg?v=1787046186"" alt=""DIY beaded Christmas tree kit contents"" style=""display:block;margin:24px auto;max-width:100%;width:100%;height:auto;"">  <h2>🎁 Create A Decoration With A Personal Touch</h2> <p>Mass-produced decorations can feel ordinary.</p> <p>A handmade beaded Christmas tree carries your own time, creativity, and personality.</p> <p>Every finished piece becomes a special holiday decoration that feels truly yours.</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-04-personal.jpg?v=1787046190"" alt=""Steps for making a DIY beaded holiday tree"" style=""display:block;margin:24px auto;max-width:100%;width:100%;height:auto;"">  <h2>🌟 Beautiful Details Made One Bead At A Time</h2> <p>Each bead adds another layer of sparkle and personality.</p> <p>The combination of green beads, pearl accents, gold details, and colorful decorations creates a rich Christmas look that feels elegant and festive.</p> <p>A small project with a beautiful final result.</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-05-details.jpg?v=1787046196"" alt=""Handcrafted beaded Christmas tree details"" style=""display:block;margin:24px auto;max-width:100%;width:100%;height:auto;"">  <h2>👨‍👩‍👧 A Fun Holiday Activity For Family Time</h2> <p>Christmas is about creating memories together.</p> <p>This DIY project is perfect for spending quality time with family, friends, or enjoying a peaceful crafting afternoon by yourself.</p> <p>Create, laugh, and decorate your home with something you made.</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-06-family.jpg?v=1787046201"" alt=""Beaded Christmas tree glowing by day and night"" style=""display:block;margin:24px auto;max-width:100%;width:100%;height:auto;"">  <h2>🧘 A Creative Escape From Everyday Stress</h2> <p>Handmade crafts give your hands something enjoyable to focus on.</p> <p>The simple process of arranging beads and building your tree can become a calming and rewarding hobby.</p> <p>A relaxing activity that ends with a beautiful decoration.</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-07-relaxing.jpg?v=1787046206"" alt=""Beaded holiday tree displayed around the home"" style=""display:block;margin:24px auto;max-width:100%;width:100%;height:auto;"">  <h2>🎄 Display Your Handmade Holiday Creation</h2> <p>After finishing your project, place your beaded Christmas tree anywhere you want.</p> <p>Perfect for:</p> <ul>   <li>Desk decoration</li>   <li>Shelf display</li>   <li>Holiday centerpiece</li>   <li>Seasonal home decor</li> </ul> <p>Your handmade work becomes part of your Christmas celebration.</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-08-display.jpg?v=1787046212"" alt=""Relaxing beaded Christmas tree craft activity"" style=""display:block;margin:24px auto;max-width:100%;width:100%;height:auto;"">  <h2>🎁 A Thoughtful Gift For Creative People</h2> <p>Looking for a unique holiday gift?</p> <p>A DIY beaded Christmas tree kit is a thoughtful choice for craft lovers, DIY enthusiasts, and anyone who enjoys creating something special.</p> <p>Give them an experience, not just another decoration.</p> <img src=""https://cdn.shopify.com/s/files/1/0983/2051/5367/files/desc-09-gift.jpg?v=1787046217"" alt=""Mini tabletop beaded holiday tree decoration"" style=""display:block;margin:24px auto;max-width:100%;width:100%;height:auto;"">  <h2>Package Contents</h2> <h3>🎁 Everything You Need To Create Your Tree</h3> <p>Inside the kit:</p> <ul>   <li>Colorful beads for building the Christmas tree</li>   <li>Decorative beads and ornaments</li>   <li>Materials needed for the DIY project</li>   <li>Step-by-step crafting process</li> </ul>  <h2>Product Information</h2> <h3>Product Details</h3> <ul>   <li>Product Type: DIY Beaded Christmas Tree Kit</li>   <li>Finished Style: Mini Christmas Tree Decoration</li>   <li>Craft Type: Handmade Beaded Art</li>   <li>Theme: Christmas / Holiday Decoration</li> </ul>  <h2>FAQ</h2> <h3>Is this a finished Christmas tree?</h3> <p>No. This is a DIY kit. You will create the Christmas tree yourself using the included materials.</p> <h3>Is it beginner friendly?</h3> <p>Yes. The project is designed for anyone who enjoys creative crafting and handmade activities.</p> <h3>Can I use it as a decoration after finishing?</h3> <p>Yes. Once completed, your handmade beaded Christmas tree can be displayed as a holiday decoration.</p> <h3>Is it suitable as a gift?</h3> <p>Yes. It makes a thoughtful gift for people who enjoy crafts, DIY projects, and Christmas decorations.</p> ",,,,,TRUE,Active,G09020260828DIYT-CHRISTMAS-1PC,,✨STYLE,Christmas,,,,,,,,27.99,,,,,,,,,,,DENY,,,TRUE,manual,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/45/45369627f7c8859604e436e2b1c10400.webp,1,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/45/45369627f7c8859604e436e2b1c10400.webp,FALSE,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,G09020260828DIYT-HALLOWEEN-1PC,,,Halloween,,,,,,,,27.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/63/63283f4e1cc6f18ecd68f36c3c4b179e.webp,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,G09020260828DIYT-AUTUMN-1PC,,,Autumn,,,,,,,,27.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/70/70aedd8db2076b7c821580c35c30d7ca.webp,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,G09020260828DIYT-WINTER-1PC,,,Winter,,,,,,,,27.99,,,,,,,,,,,DENY,,,TRUE,manual,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/07/07212f42156a529a6349e054d88e9884.webp,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/de/de80d5a207bcc8a6d20cb4346fadd8e6.webp,2,,,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/0e/0e9fde2facdd096c096cf74d1851dde7.webp,3,,,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/98/98271e4502bc6c7c72c7f281ac66d3c4.webp,4,,,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/10/109b0de0425c8b9d2a69d95173e23248.webp,5,,,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/e2/e22cece16c762ed78f384a5094491346.webp,6,,,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/77/77ac5258dfb9f81c474089512781392e.webp,7,,,,,,,,,,,,,,,,,,,,,,,
+,diy-tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/ikun981228/velnoriex-images/main/images/38/3866a5e122dc4f6c55c68f37a2bd8abd.webp,8,,,,,,,,,,,,,,,,,,,,,,,
